@@ -35,11 +35,14 @@ Each line is a JSON object:
 
 (to be updated after running the pipeline)
 
-- Total sentences: ~XX,XXX
+- Total sentences: 10733 sentences  
+- Training set: 7513 sentences  
+- Validation set: 1610 sentences  
+- Test set: 1610 sentences  
+- Vocabulary size: *(to be calculated)*  
+- Avg. sentence length: *(to be calculated)*  
 
-- Vocabulary size: ~X,XXX unique words
-
-- Avg. sentence length: ~X tokens
+---
 
 ## 🛠️ Usage
 
@@ -62,6 +65,8 @@ with open("train.jsonl", "r", encoding="utf-8") as f:
         entry = json.loads(line)
         print(entry["id"], entry["text"])
 
+---      
+
 ## 🚧 Limitations
 
 - Orthographic variation: Tshiluba uses diacritics inconsistently across sources.
@@ -70,21 +75,7 @@ with open("train.jsonl", "r", encoding="utf-8") as f:
 
 - Work in progress: Parallel Tshiluba ↔ English dataset will be added in the next stage.
 
-## 📜 License
-
-This dataset is released under **CC-BY 4.0 License**. You are free to use, modify, and share it with proper attribution.
-
-## 📌 Citation
-
-If you use this dataset, please cite:
-
-@dataset{malengela2025tshiluba,
-  author       = {Dan Malengela},
-  title        = {Tshiluba Text Corpus (Monolingual)},
-  year         = {2025},
-  publisher    = {Hugging Face / Zenodo},
-  license      = {CC-BY-4.0}
-}
+---
 
 ## 🔮 Future Work
 
@@ -96,5 +87,3 @@ If you use this dataset, please cite:
 
 
 ---
-
-Do you want me to also draft a **CONTRIBUTING.md** in Markdown, so others can help you expand the corpus?
