@@ -35,12 +35,12 @@ Each line is a JSON object:
 
 (to be updated after running the pipeline)
 
-- Total sentences: 10733 sentences  
-- Training set: 7513 sentences  
-- Validation set: 1610 sentences  
-- Test set: 1610 sentences  
-- Vocabulary size: *(to be calculated)*  
-- Avg. sentence length: *(to be calculated)*  
+- Total sentences: 27280 sentences  
+- Training set: 19096 sentences  
+- Validation set: 4092 sentences  
+- Test set: 4092 sentences  
+- Vocabulary size: 36987  
+- Avg. sentence length: 20.30 tokens  
 
 ---
 
