@@ -1,0 +1,20 @@
+# Core
+
+ 
+# Data processing
+pandas
+numpy
+
+# Text cleaning
+regex
+
+# Tokenizer
+sentencepiece
+
+# Jupyter notebook (for main.ipynb)
+notebook
+jupyter
+
+# Optional: Hugging Face ecosystem (if you later train models)
+transformers
+datasets
