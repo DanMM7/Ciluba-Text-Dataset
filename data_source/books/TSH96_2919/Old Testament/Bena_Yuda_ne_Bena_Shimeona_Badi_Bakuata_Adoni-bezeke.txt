@@ -1,0 +1,659 @@
+Judges 1
+1 Ku nyima kua lufu lua Yoshua, Bena Isalele bakebesha Yehowa ne, Wadianjila kuya ku mpala kuetu kudi Bena Kanâna bua kuluangana nʼabo nvita nganyi?
+2 Yehowa wakamba ne, Bena Yuda nebaye; monai, nakafila buloba mu bianza biabo.
+3 Bena Yuda bakambila bana babo ba balume Bena Shimeona ne, Nuye nʼetu ku buhianyi buetu bua tuetu tuluangane ne Bena Kanâna; ne tuetu kabidi netuye nʼenu ku buhianyi buenu. Bena Shimeona bakaya nʼabo.
+4 Bena Yuda bakaya, ne Yehowa wakafila Bena Kanâna ne Bena Pelizi mu bianza biabo; bakashiha binunu dikumi bia bantu mu Bezeke.
+5 Bakasangana Adoni-bezeke mu Bezeke; bakaluangana nʼandi, bakashiha Bena Kanâna ne Bena Pelizi.
+6 Kadi Adoni-bezeke wakanyema; bakamulonda, bakamuheta, bakamukosa biala biandi ne bana ba nkasa banene.
+7 Adoni-bezeke wakamba ne, Bakelenge makumi muanda mutekete bakadi ne biala biabo ne bana ba nkasa banene bikoseke bakadi badia bidia biabo muinshi mua mesa anyi; bu munakuenza, Nzambi wakunsombuela. Bakaya nʼandi ku Yelushalema, yeye wakafumaku.
+8 Bena Yuda bakaluangana ne Bena Yelushalema, bakaunyenga, bakashiha bena musoko ne muele wa nvita, bakosha tshimenga ne kahia.
+9 Ku nyima Bena Yuda bakaya kuluangana ne Bena Kanâna ba ku mukuna, ne ba ku luseke lua ku Sude ne mu tshibanda kabidi.
+10 Bena Yuda bakaya kuluangana ne Bena Kanâna bakadi bashikama mu Hebelone (dina dia Hebelone diambedi diakadi Kîyata-âba); bakashiha Sheshai ne Ahimana ne Talemai.
+11 Wakumukaku, wakaya kuluisha Bena Debî. (Dina dia Debî diambedi diakadi Kîyata-sefê).
+12 Kaleba wakamba ne, Udi ushiha Kîyata-sefê, udi ûnyenga, nemmuhe Akasa, muanʼanyi mukashi, bu mukashi wandi.
+13 Oteniele, muana mulume wa Kenaza, muakunyi wa Kaleba, wakaunyenga; yeye wakamuha Akasa bu mukashi wandi.
+14 Hakalueye kudiye, yeye wakamuenzesha bua kulombeye tatu wandi budimi; mukashi wakatuluka ha nyima ha mpunda wandi: Kaleba wakamukonka ne, Udi musue tshinyi?
+15 Yeye wakamuambila ne, Unvudishile disanka; wewe wakamana kumpa buloba bua ku luseke lua Sude, Umpe kabidi mishimi ya mai. Kaleba wakamuha mishimi ya mai yakadi ku mutu ne yakadi kumanda kabidi.
+16 Bana ba Muena Kena, tatuʼandi-muenu wa Mose, bakumuka ku musoko wakadi ne mabue a ngashi, bakaya ne Bena Yuda ku tshihela tshia Yuda, tshidi ku luseke lua ku sude wa Alada; bakaya, bakashikama ne bantu aba.
+17 Yuda wakaya ne muanʼabo Shimeona, bakashiha Bena Kanâna bakadi bashikama mu Sefata, bakabutula musoko mene. Dina dia musoko diakadi Homa.
+18 Bena Yuda bakanyenga Gaza kabidi ne matshika au, ne Ashekelona ne matshika au, ne Ekelona ne matshika au.
+19 Yehowa wakadi ne Bena Yuda, bakihata bakadi ku mikuna, kadi kabakamanya mua kuihata bakadi bashikama mu bibanda bualu bua bobo bakadi ne makalu a biamu.
+20 Bakaha Kaleba Hebelone, bu muakamba Mose; yeye wakihata bana balume ba Anaka basatu bakadimu.
+21 Bena Benyamina kabakihata Bena Yebuse hakadi bashikama mu Yelushalema; kadi Bena Yebuse badi bashikama ne Bena Benyamina mu Yelushalema tô ne lelu.
+22 Bena Yosefe bakaya bua kuluisha Bena Betele; Yehowa wakadi nʼabo.
+23 Bena Yosefe bakatuma bantu bua kutentekelabo Betele. (Dina dia Betele diambedi diakadi Luza.)
+24 Batentekedi aba bakamona muntu ufuma mu musoko, bakamuambila ne, Tudi tukusengelela ne utuleshe tshibuelelu tshia mu musoko, ne tuetu netukufuile luse.
+25 Yeye wakabalesha tshibuelelu tshia mu musoko, bakashiha bena musoko ne muele wa nvita; kadi bakalekela muntu eu ne bantu bonso ba mu nsubu muandi.
+26 Muntu eu wakaya ku buloba bua Bena Hiti, wakasaku musoko, wakawidika ne Luza; edi ndina diau tô ne lelu.
+27 Bena Manashe kabakihata Bena Bete-sheana ne misoko yau, anyi Bena Tanaka ne misoko yau, anyi Bena Dô ne misoko yau, anyi Bena Yibelama ne misoko yau, anyi Bena Megido ne misoko yau; kadi Bena Kanâna bakadi bashikama mu buloba abu.
+28 Hashishe hakakumbana Bena Isalele ba bungi, bobo bakenzesha Bena Kanâna mudimu wa mulambu, kabakabihata mene.
+29 Bena Efelayima kabakihata Bena Kanâna bakadi bashikama mu Gezê; kadi Bena Kanâna bakashikama mu Gezê munkatshi muabo.
+30 Bena Zebuluna kabakihata bantu ba mu Kitîlona anyi ba mu Nahalola; kadi Bena Kanâna bakashikama munkatshi muabo, bakabenzesha mudimu wa mulambu.
+31 Bena Ashe kabakihata bantu ba mu Ako, anyi bantu ba mu Sidona, anyi ba mu Alabâ, anyi ba mu Akiziba, anyi ba mu Heleba, anyi ba mu Lehoba;
+32 kadi Bena Ashê bakashikama munkatshi mua Bena Kanâna, bena buloba; bualu bua kabakabihata nansha.
+33 Bena Nafatale kabakihata bantu ba mu Bete-shemeshe, anyi ba mu Bete-anata; kadi bakashikama munkatshi mua Bena Kanâna, bena buloba; kadi Bena Bete-shemeshe ne Bena Bete-anata bakabakuatshila mudimu wa mulambu.
+34 Bena Amole bakasemesha Bena Dana ku mukuna, bualu bua kabakitabusha bua bahueke mu tshibanda;
+35 kadi Bena Amole bakashikama ku mukuna wa Helese, wa mu Ayalona, ne mu Shâlabima; kadi tshianza tshia Bena Yosefe tshiakabahita, bobo bakabakuatshila mudimu wa mulambu.
+36 Matshika a Bena Amole akabangila ku dibue dinene, akabanda tô ne ku mutu kua Akalabima.
+
+Judges 2
+1 Muanjelo wa Yehowa wakafuma ku Gilegala, wakaya ku Bokima. Yeye wakamba ne, Nakanûmusha mu Ejipitu, nakalua nʼenu ku buloba bunakalaya bankambua benu; nakamba ne, Tshiena nshiha tshihungidi tshinakahunga nʼenu tshiendelele;
+2 nuenu kanuhungi tshihungidi ne bena buloba ebu; nutonkole bioshelu biabo. Kadi nuenu kanuakatumikila dî dianyi; nuakuenza nunku bua tshinyi?
+3 Bua bualu ebu nakanuambila kahidi ne, Tshiena mbihata ku mpala kuenu, kadi bobo nebikale bu meba mu mbese yenu, ne nzambi yabo neyikale bu buteyi kunudi.
+4 Hashishe bakambila muanjelo wa Yehowa Bena Isalele bonso mei â, bobo bakaha miadi, bakadila.
+5 Nunku bakidika muaba au ne, Bokima; bakashihelaku Yehowa nyama.
+6 Hashishe bakatuma Yoshua bantu, Bena Isalele bonso bakaya muntu ku buhianyi buandi muntu ku buhianyi buandi.
+7 Bantu bonso bakakuatshila Yehowa mudimu matuku onso a Yoshua, ne a bakulu bakadi bashala ne muoyo ku nyima kua Yoshua, bakatangilaku malu manene onso akenzela Yehowa Bena Isalele.
+8 Yoshua, muana mulume wa Nuna, muntu wa Yehowa, wakafua hakadiye ne bidimu lukama ne dikumi.
+9 Bakamujika ku mukalu wa buhianyi buandi mu Timenatahelese, ku mikuna ya mu Efelayima, ku nôde kua mukuna wa Gasha.
+10 Bantu bonso ba mu tshikondo atshi bakasangishibua kudi bankambua babo kabidi, ne ba mu tshikondo tshikuabo tshiakabalonda ku nyima kabakamanya Yehowa anyi mudimu munene wakenzeleye Bena Isalele.
+11 Bena Isalele bakenza malu akadi mabi ku mesu kua Yehowa, bakakuatshila Bala mudimu;
+12 bakalekela Yehowa Nzambi wa batatuʼabo, wakafunda nʼabo mu buloba bua Ejipitu; bakalonda nzambi mikuabo, nzambi ya bantu bakadi ha buihi nʼabo, bakayinamina; bakafikisha Yehowa munda.
+13 Bakalekela Yehowa, bakakuatshila Bala ne Ashatelota mudimu.
+14 Tshiji tshia Yehowa tshiakadi kudi Bena Isalele, ne yeye wakabafila mu bianza bia bahandi, bakabahaula; yeye wakabahana kudi bena lukuna bakadi ha buihi nʼabo; kabakamanya mua kuimana ku mpala kua bena lukuna babo kabidi.
+15 Kuonso kuakayabo tshianza tshia Yehowa tshiakadi kudibo bua kubenzela bibi bu muakamba Yehowa, ne bu muakaditshiha Yehowa kudibo; bakadi ne ntatu ya bungi.
+16 Yehowa wakabisha balumbuluishi, bakabasungila mu bianza bia bakadi babahaula.
+17 Bobo kabakunvuila balumbuluishi babo; kadi bakenza malu a masandi kudi nzambi yabo, bakayinamina; bobo bakasesuka lubilu mu nshila wakadi batatuʼabo bendamu hakadibo batumikila mikenji ya Yehowa; kadi bobo kabakenza nunku.
+18 Hakababishila Yehowa mulumbuluishi, hashishe Yehowa wakadi ne mulumbuluishi eu, wakabasungila mu bianza bia bena lukuna babo matuku onso a mulumbuluishi eu; bualu bua Yehowa wakadi ukudimuna mutshima wandi bualu bua kutua kua mikemu yabo yakatuabo hakadibo babakengesha ne hakadibo babatatshisha.
+19 Kadi hakafua mulumbuluishi, hashishe bobo bakalukila ku nyima, bakatamba batatuʼabo kuenza bibi, hakalondabo nzambi mikuabo bua kuyenzela mudimu ne bua kuyinamina; kabakalekela bienzedi biabo bibi anyi tshitshu tshiabo.
+20 Tshiji tshia Yehowa tshiakadi kudi Bena Isalele kabidi, ne yeye wakamba ne, Bualu bua tshisamba etshi tshiakashiha tshihungidi tshinakahunga ne batatuʼabo, kabakunvua dî dianyi,
+21 meme kabidi tshiena ngihata bisamba bia bantu ku mpala kuabo, biakashiya Yoshua hakafueye:
+22 bua meme kuteta nʼabo Bena Isalele bua kumanya ne bobo nebalamate nshila wa Yehowa bua kuendamu bu muakenza batatuʼabo.
+23 Nunku Yehowa wakashiya bisamba abi bia bantu mu buloba, kakabihata lubilu; yeye kabidi kakabafila mu tshianza tshia Yoshua.
+
+Judges 3
+1 Ebi mbisamba bia bantu biakashiya Yehowa biakateteye nʼabi Bena Isalele, bonso bakadi kabayi bamanye nvita ya Bena Kanâna;
+2 anu bua bikondo bikuabo bia Bena Isalele kumanyabi nvita, bungi buabo kabuakadi bumanye nvita diambedi;
+3 â mmena abo: bakelenge batanu ba Bena Peleshete, ne Bena Kanâna bonso ne Bena Sidona, ne Bena Hiwi bakadi bashikama ku mukuna wa Lebanona, ku mukuna wa Bâla-hêmona tô ne ku mukalu wa Hamata.
+4 Bakabashiya bua kutetabo nʼabo Bena Isalele, bua kumanya ne bobo nebatumikile mikenji ya Yehowa yakeleye batatuʼabo kudi Mose.
+5 Bena Isalele bakashikama munkatshi mua Bena Kanâna ne Bena Hiti ne Bena Amole ne Bena Pelizi ne Bena Hiwi ne Bena Yebuse;
+6 bakangata bana babo bakashi bu bakashi babo, ne bakafua bana babo bakashi kudi bana babo balume, bakakuatshila nzambi yabo mudimu.
+7 Bena Isalele bakenza malu mabi ku mesu kua Yehowa, bakahua Yehowa, Nzambi wabo, muoyo, bakakuatshila Bâla ne Ashelota mudimu.
+8 Nunku tshiji tshia Yehowa tshiakadi kudi Bena Isalele, yeye wakabahana mu bianza bia Kushana-lishatayima, mukelenge wa mu Mesopotamia; Bena Isalele bakakuatshila Kudihana-lishatayima mudimu bidimu muanda mukulu.
+9 Kakadila Bena Isalele kudi Yehowa, Yehowa wakabisha Bena Isalele musunyi di, nguakabasungila, Oteniele mene, muana wa Kenaza, muakunyi wa Kaleba.
+10 Nyuma wa Yehowa wakamutulukila, yeye wakalumbuluila Bena Isalele; yeye wakaya kuluangana nvita, ne Yehowa wakafila Kushana-lishatayima, mukelenge wa mu Mesopotamia, mu tshianza tshiandi; tshianza tshiandi tshiakahita Kushana-lishatayima bukole.
+11 Buloba buakadi talalâ bidimu makumi anai. Oteniele, muana wa Kenaza, wakafua.
+12 Bena Isalele bakenza malu mabi ku mesu kua Yehowa tshiaku bidi; ne Yehowa wakakolesha Egelona, mukelenge wa Moaba, kudi Bena Isalele, bualu bua bobo bakenza malu mabi ku mesu kua Yehowa.
+13 Yeye wakasangisha Bena Amona ne Bena Amaleka kudiye yeye wakaya, bakashiha Bena Isalele, bakanyenga musoko wakadi ne mabue a ngashi.
+14 Bena Isalele bakakuatshila Egelona, mukelenge wa Moaba, mudimu bidimu dikumi ne muanda mukulu.
+15 Kadi bakadila Bena Isalele kudi Yehowa, Yehowa wakababishila musungidi, Ehuda, muana wa Gela, Muena Benyamina, muena luboko; Bena Isalele bakafila milambu mu bianza biandi bua kuyeye nʼai kudi Egelona, mukelenge wa Moaba.
+16 Ehuda wakatula muele wa nvita musakisha nseke ibidi, bule buau buakadi coudée
+17 Yeye wakafila milambu kudi Egelona, mukelenge wa Moaba: Egelona wakadi ne mafuta a bungi.
+18 Hakashikisheye kufila milambu, yeye wakahingasha bambudi ba milambu kuabo.
+19 Yeye wakamba kuya, kadi wakatangila ku muaba wakadibo basongela mpingu ya mabue wakadi mu Gilegala, wakamba ne, Mukelenge, ndi ne dî dia kukuambila mu musokoko. Yeye wakamba ne, Anji kuhuwa. Bantu bonso bakadi bimana nʼandi bakumuka.
+20 Ehuda wakabuela muakadiye; yeye wakadi mushikame nkayandi mu nsubu wakadi kulu mu muaba mialala. Ehuda wakamba ne, Ndi ne dî dia Nzambi dia kukuambila. Yeye wakabika mu nkuasa wandi.
+21 Ehuda wakolola tshianza tshiandi tshia luboko, wakatula muele wakadi ha lukundu luandi lua ku tshianza tshia buhote; wakamu tua mu difu diandi;
+22 tshilabi tshia muele tshiakajibikidibua, ne mafuta andi akajimisha muele, bualu bua yeye kahatula muele ku difu diandi, ne muele wakahatuka ha nyima handi.
+23 Hashishe Ehuda wakahatuka mu tubanda, wakamuinshidila bibi bia ku nsubu wa kulu, wakela nsahi.
+24 Hakaluhukeye, bena mudimu ba mukelenge bakatua, bakatangila, ne monai, bibi bia ku nsubu wa kulu biakadi bihanga; Bakambilangana ne, Bulelela, yeye udi ubuikila makasa andi mu nsubu wa kulu.
+25 Bakamuindila tô ne bakabatuala bundu; kadi monai, yeye kakunzulula bibi bia ku nsubu wa kulu; hashishe bakangata luvunguia, ne hakunzululabo bibi, monai, mukelenge wabo wakadi muhone hanshi mufue.
+26 Kadi Ehuda wakahatuka hakadibo bamuindila, wakahitshila muaba wakadibo basongela mpingu ya mabue, wakanyema tô ne ku Seila.
+27 Hakahinganeye, yeye wakela mpungi ku mikuna ya mu Efelayima: ne Bena Isalele bakahueka nʼandi bafume ku mikuna, yeye wakaya ku mpala kuabo.
+28 Yeye wakabambila ne, Nundonde; bualu bua Yehowa wakafila bena lukuna benu, Bena Moaba, mu bianza bienu. Bobo bakahueka bamulonde, bakanyenga malobo a mu Yadene akadi kudi Bena Moaba, kabakitabusha bua muntu umue asabukeku.
+29 Ku tshikondo atshi bakashiha balume ba Bena Moaba bu binunu dikumi; buonso buabo bakadi bakole ne ba dikima; nansha muntu umue wakahanduka.
+30 Nunku Bena Moaba bakateketa dituku adi ku tshianza tshia Bena Isalele; buloba buakadi talalâ bidimu makumi muanda mukulu.
+31 Shamagâ, muana mulume wa Anata, wakabika ku nyima kuandi, yeye wakashiha Bena Peleshete nkama isambombo ne mutshi wa kusaka nʼau ngombe; yeye wakasungila Bena Isalele kabidi.
+
+Judges 4
+1 Hakafua Ehuda, Bena Isalele bakenza malu mabi ku mesu kua Yehowa kabidi.
+2 Yehowa wakabahana mu bianza bia Yabina, mukelenge wa Bena Kanâna, wakadi ukokesha bantu mu Hasô; kapitene ka masalayi andi kakadi Sisela, wakadi mushikame mu Haloshete, munkatshi mua bisamba bia bende.
+3 Bena Isalele bakadila kudi Yehowa, bualu bua yeye wakadi ne makalu a biamu nkama tshitema, yeye wakatamba kukengesha Bena Isalele bidimu makumi abidi.
+4 Debola, muprofete wa Nzambi mukashi, mukashi wa Lapidota, wakadi ulumbuluila Bena Isalele ku tshikondo atshi.
+5 Yeye wakadi mushikame muinshi mua mabue a Debola, hankatshi ha Lama ne Betele ku mikuna ya Efelayima; Bena Isalele bakahanda kudiye bua yeye abalumbuluile.
+6 Yeye wakatuma mukenji, wakabikila Balaka, muana mulume wa Abinoama, ku Kedeshe-nafatale, wakamuambila ne, Yehowa, Nzambi wa Isalele, kakamba ne, Uye biebe ku luseke lua mukuna wa Tabô ne binunu dikumi bia bantu ba munkatshi mua Bena Nafatale ne Bena Zebulona, anyi?
+7 Meme nentume Sisela, kapitene ka masalayi a Yabina, kûdi ku musulu wa Kishona, ne makalu andi a nvita ne tshisumbu tshiandi tshinene; nemmufile mu bianza biebe.
+8 Balaka wakamukudimuna dî ne, Biwaya nganyi, nenye; kadi biwikala kuyi uya, tshiena nya.
+9 Yeye wakamba ne, Bulelela, nenye nʼebe, kadi luendu lûdi uya kaluena lukuvuisha butumbi bualu bua Yehowa neafile Sisela mu bianza bia mukashi. Debola wakabika, wakaya ne Balaka ku Kedeshe.
+10 Balaka wakabikila Bena Zebuluna ne Bena Nafatale ku Kedeshe; bantu binunu dikumi bakamulonda ku makasa andi; ne Debola wakaya nʼandi.
+11 Hebe, Muena Kena, wakatabuluka kudi Bena Kena bakuabo, bana ba Hobaba, tatuʼandi-muenu wa Mose, wakashimika ntenta yandi hehi ne mitshi ya telebinta ya mu Sânanima, udi hehi ne Kedeshe.
+12 Bakambila Sisela ne, Balaka, muana wa Abinoama, wakaya ku mukuna wa Tabô.
+13 Sisela wakasangisha makalu andi a biamu onso nkama tshitema, ne bantu bonso bakadi nʼandi, ku Haloshete wa munkatshi mua bisamba bia bende, tô ne ku musulu wa Kishona.
+14 Debola wakambila Balaka ne, Bika biebe, bualu bua Yehowa wakafila Sisela mu bianza biebe lelu; Yehowa kena mudianjile ku mpala kuebe, anyi? Nunku Balaka wakahueka mufume ku mukuna wa Tabô, ne bantu binunu dikumi bakamulonda ku nyima.
+15 Yehowa wakatatshisha Sisela ne makalu andi onso ne bantu bandi bonso ku miele ya nvita ya Balaka; ne Sisela wakumuka ku dikalu diandi, wakanyema ku makasa andi.
+16 Kadi Balaka wakalonda ku nyima kua makalu ne kua bantu tô ne ku Haloshete wa munkatshi mua bisamba bia bende; bantu bonso ba Sisela bakafua ku miele ya nvita; nansha umue wabo wakahanduka.
+17 Kadi Sisela wakanyema ku makasa andi ku ntenta wa Yaele, mukashi wa Hebê, Muena Kena; bualu bua ditalala diakadi hankatshi ha Yabina, mukelenge wa Hasô, ne nsubu wa Hebê, Muena Kena.
+18 Yaele wakaluhuka bua kusangakena ne Sisela, wakamuambila ne, Buelamu, mukelenge wanyi, ubuele munu, kutshinyi. Yeye wakabuela muakadiye mu ntenta wandi, ne yeye wakamubuikila mu tshiata.
+19 Yeye wakamuambila ne, Ndi nkusengelela ne umpe tuima tukese, bualu bua ndi ne nyota. Yeye wakabutula mulondo wa mabele, wakamunuisha, wakamubuikila kabidi.
+20 Yeye wakamuambila ne, Wimane ku mushiku wa ntenta, ne bialua muntu bua kukukonka ne, Mulume udiku, anyi? wewe umukudimune dî ne, Nansha.
+21 Hashishe Yaele, mukashi wa Hebê, wakangata mutshi wa mulondo wa ntenta, ne marteau mu tshianza tshiandi, wakaya kudiye bitekete bitekete, wakamukumina mutshi au ha luhuhu luandi; ne mutshi wakahatuka, wakabuela mu buloba; bualu bua yeye wakadi mulale tshihuka, mutambe kuhungila, nunku wakafua.
+22 Monai, hakadi Balaka ulonda ku nyima kua Sisela, Yaele wakaluhuka bua kusangakena nʼandi, wakamuambila ne, Lua biebe, nenkuleshe muntu ûdi ukeba. Yeye wakaya kudiye, wakatangila Sisela mulale hanshi mufue ne mutshi wa mulondo wa ntenta ha mpuhu yandi.
+23 Nunku Nzambi wakalekesha Yabina, mukelenge wa Kanâna, ku mesu kua Bena Isalele dituku adi.
+24 Tshianza tshia Bena Isalele tshiakadia, ne tshiakahuela Yabina, mukelenge wa Kanâna, tô ne hakabutulabo Yabina, mukelenge wa mu Kanâna.
+
+Judges 5
+1 Hashishe Debola ne Balaka, muana mulume wa Abinoama, bakimba musambu dituku adi ne:
+2 Bualu bua balombodi bakalombola Bena Isalele,
+3 Unvuai, nuenu bakelenge, telejai matshu, nuenu bana ba bakelenge;
+4 Yehowa, hawakumuka ku Sei,
+5 Mikuna minene yakazakala ku mesu kua Yehowa;
+6 Mu matuku a Shamagâ, muana mulume wa Anata,
+7 Bakelenge bakahuwa mu Isalele,
+8 Bobo bakasungula nzambi mihia-mihia,
+9 Mutshima wanyi udi kudi bakokeshi ba mu Isalele
+10 Nuenu, badi babanda ha nyima ha tubalu tutoke, ambai bualu;
+11 Ku muaba wakadi mutoyi wa bena nvita bakadi ne mata
+12 Tabala, tabala, Debola:
+13 Hashishe tshituha tshia bakelenge bakashala ne bantu bakahueka;
+14 bakadi ne muji wabo mu Amaleka bakumuka mu Efelayima,
+15 Bana balume ba bakelenge banene ba mu Yisakâ bakadi ne Debola;
+16 Wakashikama munkatshi mua mpangu ya mikoko
+17 Bena Gilada bakashikama dishiya dia Yadene;
+18 Bena Zebuluna bakadi bu bantu bakamba kufila mioyo yabo tô ne ku lufu,
+19 Bakelenge bakaluhuka, bakaluangana;
+20 Mitoto ya mu diulu yakaluangana,
+21 Musulu wa Kishona, musulu au wa kale kale,
+22 Hashishe tubalu tuakatua mikono yatu hanshi,
+23 Muanjelo wa Yehowa wakamba ne,
+24 Yaele, mukashi wa Hebê, Muena Kena,
+25 Yeye wakamulomba mai, kadi yeye wakamuha mabele;
+26 Yeye wakolola tshianza tshiandi ku mutshi wa mutondo wa ntenta,
+27 Yeye wakatua mpala wandi hanshi ku makasa andi,
+28 Mamu wa Sisela wakadi mutangile ha disoso dia nsubu,
+29 Bakashi benji ba mudimu wandi ba lungenyi bakamukudimuna dî;
+30 wakamba ne, Kabena basangana bintu biakunyengabo kudi bena lukuna, anyi?
+31 Yehowa, bantu bonso badi nʼebe lukuna bafue nunku;
+
+Judges 6
+1 Bena Isalele bakenza malu mabi ku mesu kua Yehowa; ne Yehowa wakabafila mu bianza bia Bena Midiyana bidimu muanda mutekete.
+2 Tshianza tshia Bena Midiyana tshiakahita Bena Isalele bukole; bualu bua Bena Midiyana, Bena Isalele bakadimbila mena mu mikuna ne mbuebue, bakadiashila ngumbu ya mabue.
+3 Hakakuna Bena Isalele bintu mu buloba, hashishe Bena Midiyana ne Bena Amaleka ne bantu ba ku esete bakatua kudibo, bakafila kubalesha;
+4 bakabatshintshimika, bakahaula bintu biakamena mu buloba, tô ne nakafikabo ku Gaza; kabakashila Bena Isalele tshia kudia, nansha mukoko nansha ngombe nansha mpunda.
+5 Bualu bua hobo bakulua ne bimuna biabo ne ntenta yabo; bakafila bu bungi bua mikumbi; hobo ne tumelo tuabo kabakabadibua; bakafila mu buloba bua kububutula.
+6 Bena Isalele bakatamba kulua bahele bualu bua Bena Midiyana; ne Bena Isalele bakadila kudi Yehowa.
+7 Kakadila Bena Isalele kudi Yehowa bualu bua Bena Midiyana,
+8 hashishe Yehowa wakatumina Bena Isalele muprofete; yeye wakabambila ne, Yehowa, Nzambi wa Isalele, udi wamba ne, Meme nakafuma nʼenu mu Ejipitu, nakanuhatula mu nsubu wa buhika;
+9 nakanusungila mu bianza bia Bena Ejipitu ne mu bianza bia bantu bonso bakadi banukengesha, nakabihata ku mesu kuenu, nakanuha buloba buabo.
+10 Nakanuambila ne, Meme ndi Yehowa, Nzambi wenu; kanutshinyi nzambi ya Bena Amole, bena buloba bunudi bashikame. Kadi nuenu ka-nuakunvua dî dianyi.
+11 Muanjelo wa Yehowa wakalua, wakashikama muinshi mua mutshi wa telebinta wa mu Ofela, mu buloba bua Yoasha, muena Abiezê; ne muanʼandi Gideona wakadi ushihula blé mu tshikaminu tshia tumuma bua kuyisokoka kudi Bena Midiyana.
+12 Muanjelo wa Yehowa wakamueneka kudiye, wakamuambila ne, Yehowa udi nʼebe, wewe muntu mukole wa bukitu.
+13 Gideona wakamukudimuna dî ne, Mukelenge wanyi, bikala Yehowa nʼetu, malu â onso akatukuata bualu kai? Malu andi a kukema akatuambilabo kudi bakaku betu ehi, hakatuambilabo ne, Yehowa kakatuhatula mu Ejipitu, anyi? Kadi katataka Yehowa wakatula dia, wakatuma mu bianza bia Bena Midiyana.
+14 Yehowa wakatshunguluka kudiye, wakamuambila ne, Ya mu bukole ebu mbuebe, usungile Bena Isalele mu bianza bia Bena Midiyana; tshiakakutuma, anyi?
+15 Yeye wakamukonka ne, Mukelenge, meme nensungile Bena Isalele munyi? Mona, ba mu diku dianyi badi bahita Bena Manashe bonso bahele, ne meme ndi mutambe buhuekele mu nsubu wa tatu wanyi.
+16 Yehowa wakamuambila ne, Bulelela, meme nengikale nʼebe, ne wewe neushihe Bena Midiyana bu muntu umue.
+17 Yeye wakamuambila ne, Bingikala musangane diakalengele ku mesu kuebe, undeshe tshimanymu ne, Nguewe mene udi wakula nʼanyi.
+18 Ndi nkusengelela ne, Kumuki aha tô ne hanalua ne matabisha anyi a kuteka ku mpala kuebe. Yeye wakamba ne, Nenkuindile tô ne hawalua kabidi.
+19 Gideona wakabuela mu nsubu, wakalongolola muana wa mbushi ne mikata ya tshihiminu tshia bukula buakadi kabuyi ne luevene; wakateka munyinyi mu tshisaka ne nsuhu mu luesu, wakalua nʼabi kudiye muinshi mua mutshi, wakabifila kudiye.
+20 Muanjelo wa Nzambi wakamuambila ne, Angata munyinyi ne mikata idi kayiyi ne luevene, ubiteke ha mutu ha dibue edi, witshikishe nsuhu. Yeye Wakenza nunku.
+21 Hashishe muanjelo wa Yehowa wakatua lusongo lua mulangala wakadi mu tshianza tshiandi ha munyinyi ne ha mikata yakadi kayiyi ne luevene; ne kahia kakahatuka mu dibue, kakosha munyinyi ne mikata yakadi kayiyi ne luevene; muanjelo wa Yehowa wakumuka ku mesu kuandi.
+22 Gideona wakamanya ne, Yeye udi muanjelo wa Yehowa; Gideona wakamba ne, Aka, Mukelenge Yehowa! Bualu bua nakumonangana ne muanjelo wa Yehowa mpala ha mpala.
+23 Yehowa wakamuambila ne, Ditalala dikale kûdi, kutshinyi, wewe kuena ufila.
+24 Hashishe Gideona wakibakilaku Yehowa tshioshelu, wakatshibikila ne, Yehowa-Shaloma; tshitshidiku tô ne lelu mu Ofela wa Bena Abiezê.
+25 Butuku abu mene Yehowa wakamuambila ne, Wangate ngombe wa tatu webe, ngombe wandi muibidi bidimu muanda mutekete, ushimbule tshioshelu tshia Bâla tshidi tatu webe nʼatshi, utahe mutshi wa Ashela udi hehi nʼatshi,
+26 wibakile Yehowa, Nzambi webe, tshioshelu ha mutu ha dibue edi, mu muaba mulongolola, wangate ngombe au muibidi, umufileku bu mulambu wa kuosha ha kahia ne nkunyi ya mutshi wa Ashela uwataba.
+27 Hashishe Gideona wakangata bena mudimu bandi dikumi, wakenza bu muakamuambila Yehowa; bualu bua yeye wakadi nutshine ba mu nsubu wa tatu wandi, ne bena musoko kabidi, yeye kakenza bualu ebu mu munya, kadi wakabuela mu butuku.
+28 Bakabika bantu ba mu musoko ne dinda dionso, bakamona ne tshioshelu tshia Bâla tshiakadi tshishimbula, ne mutshi wa Ashela wakadi ha buihi nʼatshi wakadi mutaha, ne hakamana kufila ngombe muibidi ha tshioshelu tshiakasabo.
+29 Bakakonkangana ne, Wakuenza bualu ebu nganyi? Hakebeshabo ne hakakonkanganabo, bakamba ne, Gideona, muana wa Yoasha, nguakuenza bualu ebu.
+30 Hashishe bantu ba mu musoko bakambila Yoasha ne, Hatula muanʼebe, afue biandi, bualu bua yeye wakashehula tshioshelu tshia Bâla, ne bualu bua yeye wakataha mutshi wa Ashela wakadi ha buihi nʼatshi.
+31 Yoasha wakambila bantu honso bakadi bamunguna ne, Nudi basue kuakuila Bâla, anyi? Nudi basue kumusungila, anyi? Muntu udi musue kumubila nvita afue biandi dinda edi; bikaleye nzambi, adiakuile, bualu bua bakashimbula tshioshelu tshiandi.
+32 Nunku bakabanga kumubikila dituku adi ne, Yelubâla, bamba ne, Bala amuluishe bualu bua yeye wakasungula tshioshelu tshiandi.
+33 Hashishe Bena Midiyana bonso ne Bena Amaleka ne bantu bonso ba ku esete bakadisangisha hamue; bakasabuka, bakasa tshitudilu mu tshibanda tshia Yizelele.
+34 Kadi Nyuma wa Yehowa wakatuela Gideona; yeye wakela mpungi ne Bena Abiezê bonso bakadisangisha kudiye.
+35 Yeye wakatumina Bena Manashe bonso bamessager, ne bobo bakadisangisha kudiye kabidi. Wakabatumina Bena Ashe ne Bena Zebuluna ne Bena Nafatale, ne bobo bakahanda bua kusangila nʼabo.
+36 Gideona wakambila Nzambi ne, Biwasua kusungila Bena Isalele ku tshianza tshianyi bu muwakamba,
+37 tangila, nenteke miosa ya mikoko hanshi mu tshishihuidi; bikala mume anu ha miosa ne buloba buonso budi bûme, hashishe nemmanye ne, Wewe neusungile Bena Isalele ku tshianza tshianyi bu muwakamba.
+38 Bualu ebu buakenjibua; bualu bua yeye wakabika ne dinda dionso, wakakama miosa, wakanyenga mume wakadi mu miosa, dilonga dîa-kûla tente ne mai.
+39 Gideona wakambila Nzambi ne, Tshiji tshiebe katshikadi kundi, nengakule anu musangu eu umue; ndi nkusengelela ne meme ntete musangu mukuabo ne miosa ei; witabusha ne miosa nkayai ikale miume, ne mume wikale ha buloba buonso.
+40 Nzambi Wakenza nunku butuku abu; bualu bua miosa yakadi miume nkayai, ne mume wakadi ha buloba buonso.
+
+Judges 7
+1 Hashishe Yelubâla, udibo babikila ne, Gideona kabidi, ne bantu bonso bakadi nʼandi, bakabika ne dinda dionso, bakasa tshitudilu tshiabo ku mpokolo wa mai a Haloda; tshitudilu tshia Bena Midiyana tshiakadi ku luseke luabo lua ku node ku mukuna wa Mole tô ne mu tshibanda.
+2 Yehowa wakambila Gideona ne, Bantu badi nʼebe badi bahita bungi bua meme kufila Bena Midiyana mu bianza biabo; bobo nebadileshe ku mesu kuanyi, badiamba ne, Tuakudisungila ne bianza bietu.
+3 Wambile bantu bonso ku matshu abo ne, Yonso udi ne dishina ne kuikala, alukile, ahingane biandi ku mukuna wa Gilada. Bantu binunu makumi abidi ne bibidi bakahingana, ne binunu dikumi bia bantu biakashala.
+4 Yehowa wakambila Gideona kabidi ne, Bantu batshidi batamba bungi; uhueke nʼabo ku mai, nenkutetshileboku; hashishe muntu wakuambila ne, Aye nʼebe, neaye biandi nʼebe; ne muntu wakuambila ne, Kayi nʼebe, kayi nʼebe nansha.
+5 Nunku yeye wakalua ne bantu bonso ku mai; Yehowa wakambila Gideona ne, Yonso udi ulaka mai ne ludimi luandi bu mudi mbua ulaka, wewe neumuteke ha buandi; ne muinu yonso udi utua binu hanshi bua kunueye mai, umuteke ha buandi kabidi.
+6 Bungi bua bantu bakalaka, bateke bianza ku mishiku, buakadi balume nkama isatu; kadi bantu bonso bakuabo bakatua binu hanshi bua kunuabo mai.
+7 Yehowa wakambila Gideona ne, Neufile Bena Midiyana mu tshianza tshiebe, nenkusungile kudi bantu aba nkama isatu bakalaka mai; bantu aba bonso bakuabo baye, muntu ku muaba wandi muntu ku muaba wandi.
+8 Nunku bantu bakangata bia kudia ne mpungi mu bianza biabo; yeye wakatuma Bena Isalele bakuabo muntu ku ntenta wandi muntu ku ntenta wandi; wakashala anu ne bantu aba nkama isatu; tshitudilu tshia Midiyana tshiakadi kuinshi kuandi mu tshibanda.
+9 Butuku abu mene Yehowa wakamuambila ne, Bika biebe, hueka ku tshitudilu tshiabo, bualu bua nakabifila mu bianza biebe.
+10 Kadi biwatshina mua kuya nkayebe, uye ku tshitudilu ne Pula, muena mudimu webe;
+11 wewe neunvue mei adibo bambilangana; hashishe bianza biebe nebikoleshibue bua kuhueka mu tshitudilu. Hashishe yeye wakahueka ne Pula, muena mudimu wandi, tô ne kunfudilu kua bena nvita bakadi mu tshitudilu.
+12 Bena Midiyana ne Bena Amaleka ne bantu bonso ba ku esete bakadi balale mu tshibanda bu mikumbi bua bungi buaho. Kabakamanya mua kubala tumelo tuabo, bungi bualu buakadi bu nsenga ya ku muelelu wa mai manene.
+13 Hakafika Gideona kudibo, wakasangana muntu wakadi wawila mukuabo tshilota tshiandi; yeye wakamuambila ne, Nakalota tshilota, nakatangila mutanda wa bidia bia orge
+14 Muena kuabo wakamuambila ne, Ebu kambualu bukuabo, anu muele wa nvita wa Gideona, muana wa Yoasha, Muena Isalele; Nzambi wakamana kufila Midiyana ne musumba wandi wonso mu tshianza tshiandi.
+15 Kakunyua Gideona kuaula kua tshilota ne kukudimuna kuatshi, hashishe yeye wakatendelela, wakahingana ku tshitudilu tshia Bena Isalele, wakamba ne, Bikai, bualu bua Yehowa wakafila musumba wa Bena Midiyana mu bianza bienu.
+16 Yeye wakatahulula bantu nkama isatu bisumbu bisatu, wakabaha mpungi mu bianza biabo bonso ne milondo munda mutuhu ne bimunyi mu milondo.
+17 Yeye wakabambila ne, Nuntangile meme, nuenze bu mungenza; ne monai, hanalua ku butshika bua tshitudilu, hashishe nenuenze bu mungenza.
+18 Hangela bianyi mpungi, meme ne bonso badi nʼanyi, hashishe nuenu kabidi nuele mpungi ku matshika onso a tshitudilu, nuambe ne, Bualu bua Yehowa ne bua Gideona.
+19 Nunku Gideona ne lukama lua bantu bakadi nʼandi, bakalua ku butshika bua tshitudilu mundankulu hakatekabo bansentedi bahia-bahia anu musangu muihi; bakela mpungi, bakashiha milondo yakadi mu bianza biabo.
+20 Bantu ba mu bisumbu bisatu bakela mpungi, bakashiha milondo, bakakuata bimunyi mu bianza biabo bia bakashi ne mpungi mu bianza bia balume bua kuyela; bakela mbila ne, Muele wa nvita wa Yehowa ne wa Gideona.
+21 Bakimana muntu ha muaha wandi muntu ha muaba wandi, banyunguluke tshitudilu; musumba wonso wakanyema; bakela mbila, bakabihata.
+22 Bantu aba nkama isatu bakela mpungi; Yehowa wakabaluishisha muntu ne mukuandi nvita, ne musumba wonso; musumba wonso wakanyema tô ne ku Bete-shita ku luseke lua Zelala tô ne ku butshika bua Abele-mehola hehi ne Tabata.
+23 Bena Isalele ba mu Nafatale ne Ashe ne Manashe bakadisangisha, bakalonda Bena Midiyana.
+24 Gideona wakatuma ba-messager kudi Bena Efelayima ba ku mikuna ne, Luai kuluisha Bena Midiyana, nunyenge mai adi ku mpala kuabo tô ne ku Bete-bala ne ku Yadene. Nunku Bena Efelayima bakadisangisha hamue, bakanyenga mai onso tô ne ku Bete-bala ne ku Yadene.
+25 Bakakuata bana ba mukelenge wa Midiyana babidi, Oleba ne Zêbe; bakashiha Oleba ku dibue dia Oleba ne bakashiha Zêbe ku tshikaminu tshia Zêbe; bakihata Bena Midiyana. Bakalua ne mutu wa Oleba ne wa Zêbe kudi Gideona dishiya dia Yadene.
+
+Judges 8
+1 Bena Efelayima bakamuambila ne, Bualu kai wakatuenzela nunku, kuakatubikila hawakaya kuluangana ne Bena Midiyana? Bakamutandisha bikole.
+2 Yeye wakabakonka ne, Bualu kai bunakuenza budi butamba bunuakuenza? Kuhuola kua tumuma tua nvinyo tua Efelayima kakuena kuhita kuhuola kua tumuma tua Abiezê buimpe, anyi?
+3 Nzambi wakafila bana ba mukelenge wa Midiyana, Oleba ne Zêbe, mu bianza bienu; meme ndi mumanye mua kuidikisha bualu buanyi ne bualu buenu, anyi? Hakambeye dî edi, tshiji tshiabo tshiakashika kudiye.
+4 Gideona ne bantu bandi nkama isatu bakadi nʼandi bakalua ku Yadene, bakasabukaku, bahungile, kadi bakatshidi babihata.
+5 Yeye wakambila bantu ba mu Sukota ne, Ndi nnusengelela ne numpe mitanda ya bidia bua bantu badi nʼanyi. Bualu bua bobo badi bahungile ne ntshidi ngihata Zêba ne Salemuna, bakelenge ba Midiyana.
+6 Bakelenge ba mu Sukota bakamuambila ne, Bianza bia Zêba ne Salemuna bidi mu bianza biebe katataka bua tuetu tukuhe bidia bua bena nvita bebe, anyi?
+7 Gideona wakamba ne, Hashikisha Yehowa kufila Zêba ne Salemuna mu bianza bianyi, nenkande minyinyi yenu ne meba a mu tshihela ne mingonge.
+8 Wakumukaku, wakaya ku Penuele; wakabambila muomumue; ne bakelenge ba mu Penuele bakamukudimuna anu di diakamba Bena Sukota.
+9 Yeye wakambila bantu ba mu Penuele ne, hanahingana ne ditalala nenshimbule tshibumba etshi.
+10 Zêba ne Salemuna bakadi mu Kakô, ne misumba yabo yakadi nʼabo, bu binunu dikumi ne bitanu, bonso bakadi bashala ba mu musumba wa bantu ba ku esete; bualu bua bena nvita bu binunu lukama ne makumi abidi bakahona bafue.
+11 Gideona wakabanda mu nshila udi uyila kudi badi bashikama mu ntenta ku esete kua Noba ne Yogebeha, wakashiha musumba wabo, bualu bua musumba wakadi mu muaba mukole.
+12 Zêba ne Salemuna bakanyema; yeye wakabihata, wakakuata Zêba ne Salemuna, bakelenge babidi ba Midiyana, wakatatshisha musumba wabo wonso.
+13 Gideona, muana wa Yoasha, wakalua mufume ku nvita ku mukuna wa Helese.
+14 Yeye wakakuata nsongalume wa Bena Sukota, wakamuebesha malu; yeye wakamufundila mena a bakelenge ba mu Sukota ne bakulu babo kabidi makumi muanda mutekete ne muanda mutekete.
+15 Yeye wakalua kudi Bena Sukota, wakamba ne, Tangilai Zêba ne Salemuna banuakanseka ne, Bianza bia Zêba ne Salemuna bidi mu bianza biebe katataka bua tukuhe bidia bua bantu bebe badi bahungile, anyi?
+16 Yeye wakakuata bakulu ba mu musoko ne meba a mu tshihela ne mingonge, yeye wakatuisha nʼabo Bena Sukota.
+17 Yeye kabidi wakashehula tshibumba tshia mu Penuele, wakashiha bena musoko.
+18 Hashishe yeye wakambila Zêba ne Salemuna ne, Bantu banuakashiha ku Tabô bakadi ba mushindu kai? Bakamukudimuna ne, Bakadi bu wewe mene; muntu ne muntu bakadi bafuanangana ne bana ba mukelenge.
+19 Yeye wakabambila ne, Bobo bakadi bana betu, bana ba mamu wanyi mene. Bu mudi Yehowa ne muoyo, bu nuenu babashiye ne muoyo, meme tshiakadi kunushiha.
+20 Yeye wakambila Yetê, muanʼa bute wandi, ne, Bika, ubashihe. Kadi nsongalume kahatula muele wandi wa nvita, yeye wakatshina bualu bua yeye wakatshidi nsongalume.
+21 Hashishe Zêba ne Salemuna bakamuambila ne, Bika biebe, unshihe, bualu bua bu mudi mulume mbu mudi bukole buandi kabidi. Gideona wakabika, wakashiha Zêba ne Salemuna; yeye kabidi wakangata bilenga biakadi mu nshingu ya tumelo tuabo.
+22 Hashishe balume ba mu Isalele bakambila Gideona ne, Utukokeshe; ne wewe ne muanʼebe mulume, ne muana wa muanʼebe mulume kabidi; bualu bua wewe wakatusungila mu bianza bia Bena Midiyana.
+23 Gideona wakabambila ne, Tshiena nnukokesha ne muana wanyi kena unulesha; Yehowa neanuleshe.
+24 Gideona wakabambila ne, Ndi musue kunulomba tshintu, muntu ne muntu bampe tukanu tua ku matshu tuakanyengabo mu nvita. (Bobo bakadi ne tukanu tua or ku matshu bualu bua bobo bakadi Bena Yishemaele.)
+25 Bobo bakamukudimuna ne, Netukuhetu ne disanka. Bakadisha tshilulu hanshi ne muntu ne muntu bakelamu tukanu tuakanyengabo mu nvita.
+26 Bujitu bua or ya tukanu tua ku matshu tuakalombeye buakadi nshekele
+27 Gideona Wakenza efoda ne bintu ebi, wakamuteka mu Ofela, musoko wandi; Bena Isalele bonso bakendaku masandi; nunku efoda eu wakalua bu buteyi kudi Gideona ne ba mu nsubu wandi.
+28 Nunku Bena Midiyana bakadi batambibue bukole kudi Bena Isalele, kabakabisha mitu yabo kabidi. Buloba buakadi talalâ bidimu makumi anai mu matuku onso a Gideona.
+29 Yelubâla, muana wa Yoasha, wakaya, wakashikama mu nsubu muandi.
+30 Gideona wakadi ne bana balume makumi muanda mutekete bakaleleye, bualu bua yeye wakadi ne bakashi ba bungi.
+31 Mukashi, muhika wandi wakadiye mubake, wa mu Shekeme, wakamulelela muana wa balume kabidi, wakamuidika dina ne Abimeleke.
+32 Gideona, muana wa Yoasha, wakafua biandi ku bununu buandi, bakamujika mu majambu a tatu wandi Yoasha mu musoko wa Ofela wa Bena Abiezê.
+33 Hakafua Gideona, Bena Isalele bakalukila ku nyima, bakalonda malu a masandi kudi Babala, ne bakavuisha Bâla-belita nzambi wabo.
+34 Bena Isalele kabakavuluka Yehowa, Nzambi wabo, nguakabasungila mu bianza bia bantu bakadi nʼabo lukuna bonso ba ku nseke yonso;
+35 kabakalesha ba mu nsubu wa Yelubâla, udi Gideona mene, luse bu malu mimpe akalesheye Bena Isalele.
+
+Judges 9
+1 Abimeleke, muana wa Yelubâla, wakaya ku Shekeme kudi bana babo ne mamu wandi, yeye wakabambila ne bantu bonso ba mu nsubu wa tatu wa mamu wandi ne,
+2 Ntu nnusengelela ne, Nukonke bena Shekeme bonso mu matshu abo ne, Bualu kai budi butambe buimpe ku mesu kuenu bua bana balume bonso ba Yelubâla badi makumi muanda mutekete banukokeshe, anyi bua muntu umue anukokeshe? Nuvuluke kabidi ne meme ndi bu mufuba wa mifuba yenu ne bu musunyi wa misunyi yenu.
+3 Bana babo ne mamu wandi bakamuambila mei au onso mu matshu a bena Shekeme bonso; ne mitshima yabo yakasua kulonda Abimeleke; bualu bua bakamba ne, Yeye udi muanʼetu.
+4 Bakamuha argent makumi muanda mutekete ya mu nsubu wa Bâla-belita; ne Abimeleke wakafuta nʼai bantu bahote ne ba hatuhu bakamulonda.
+5 Wakaya ku nsubu wa tatu wandi wa ku Ofela, wakashiha bana babo bonso, bana ba Yelubâla, makumi muanda mutekete, ha dibue dimue. Kadi Yotama, muanʼa mukala wa Yelubâla, wakashala, bualu bua yeye wakasokoma.
+6 Bena Shekeme bonso bakadisangisha hamue ne bonso ba mu nsubu wa Milo bakaya, bakateka Abimeleke mu bukelenge, muinshi mua mutshi wa telebinta ku dibue
+7 Hakambabo Yotama bualu ebu, yeye wakaya, wakimana ha mutu ha mukuna wa Gelizima, wakabandisha dî diandi, wakabambila ne, Nuenu bena Shekeme, nungunvuile, bua Nzambi anufuile.
+8 Kale mitshi yonso yakadisangisha bua kusungula mukelenge wa ku mutu kuai. Yakambila mutshi wa olive ne, Utukokeshe.
+9 Kadi mutshi wa olive wakayambila ne, Nshiye mafuta anyi andi ntumbisha nʼau Nzambi ne bantu kabidi, bua kuya kuhehukahehuka ku mutu kua mitshi mikuabo, anyi?
+10 Mitshi yonso yakambila mutshi wa nfigi ne, Lua biebe, ubukokeshe.
+11 Kadi mutshi wa nfigi wakayambila ne, Nshiya kushemakana kuanyi ne mamuma anyi mimpe bua kuya kuhehukahehuka ku mutu kua mitshi mikuabo, anyi?
+12 Mitshi yakambila muonshi wa tumuma ne, Lua biebe, udikokeshe.
+13 Kadi muonshi wakayambila ne, Nshiye nvinyo yanyi mihia-mihia, idi isankisha Nzambi ne bantu kabidi, bua kuya kuhehukahehuka ku mutu kua mitshi yonso mikuabo, anyi?
+14 Hashishe mitshi yonso yakambila mutshi wa meba ne, Lua biebe, utukokeshe.
+15 Mutshi wa meba wakambila mitshi yonso ne, Binuasua kungela manyi ha mutu bua meme kuikala mukelenge ku mutu kuenu bulelela, hashishe nulue nushikame mu diledi dianyi, kadi binuahidia, kahia kahatuke ku mutshi wa meba bua kuosha mitshi ya cédres ya mu Lebanona.
+16 Nunku binuenza bulelela ne buimpe, hanuakuteka Abimeleke mu bukelenge, ne binuenzela Yelubâla ne ba mu nsubu wandi bimpe, ne binuamufuta bu muakadi difutu diandi;
+17 (bualu bua tatu wanyi wakanuluila nvita, wakamba kunufuila ne muoyo wandi, wakanusungila mu bianza bia Bena Midiyana;
+18 ne nuenu nuakabika ku mpala kua nsubu wa tatu wanyi lelu, nuakushiha bana bandi balume makumi muanda mutekete ha dibue dimue, nuakateka Abimeleke, muana wa mukashi, muenji wa mudimu wandi, mu bukelenge ku mutu kua bena Shekeme, bualu bua yeye udi muanʼenu)
+19 binuikala benzele Yelubâla ne ba mu nsubu wandi bualu bulelela ne buimpe lelu, nusanke bualu bua Abimeleke ne yeye asanke bualu buenu kabidi;
+20 kadi binuikala kanuyi benze bimpe, kahia kahatuke kudi Abimeleke bua kuosha bena Shekeme ne ba mu nsubu wa Milo; kahia kahatuke kabidi kudi bena Shekeme ne kudi ba mu nsubu wa Milo bua kuosha Abimeleke kabidi.
+21 Hashishe Yotama wakumuka, wakanyema, wakaya ku Be, wakashikamaku bualu bua dishina dia Abimeleke muanʼabo.
+22 Abimeleke wakadi mukelenge ku mutu kua Bena Isalele bidimu bisatu.
+23 Nzambi wakatuma nyuma mubi hankatshi ha Abimeleke ne bena Shekeme; bena Shekeme bakayila Abimeleke ku tshitungu;
+24 bua bualu bubi buakenzeleye bana ba Yelubâla makumi muanda mutekete ne mashi abo kabidi bihingane ku mutu kua Abimeleke muanʼabo, nguakabashiha, ne ha mitu ha bena Shekeme bakamukolesha maboko bua yeye kubashiha.
+25 Bena Shekeme bakamutekela balaminyi ku mutu kua mikuna yonso, bakanyenga bintu bia bantu bonso bakahita mu nshila; bakambila Abimeleke bualu ebu.
+26 Gala, muana wa Ebede, wakalua ne ba mu tshiota tshiandi, Wakafika ku Shekeme; bena Shekeme bakamueyemena.
+27 Bakaya mu madimi, bakahuola mamuma abo, bakatua tumuma tuabo tua nvinyo ku makasa abo, bakadia bidia bia disanka, bakabuela mu nsubu wa nzambi wabo, bakadia, bakanua, bakela Abimeleke mulau.
+28 Gala, muana wa Ebede, wakamba ne, Abimeleke udi nganyi, ne Shekeme udi nganyi, bua tuetu kumukuatshia mudimu? Yeye kena muana wa Yelubâla, anyi? Zebula kena kapita kandi, anyi? Nuenu nudi nukuatshila Hamo, tatu wa Shekeme, mudimu; kadi tudi ne bua kumukuatshia mudimu bua tshinyi?
+29 Ndi musue bantu aba bikale mu tshianza tshianyi, hashishe nengumushe Abimeleke. Yeye wakambila Abimeleke ne, Ukumbashe bena nvita bebe, uluhuke biebe.
+30 Kakunyua Zebula, mukelenge wa mu musoko, mei a Gala, muana wa Ebede, tshiji tshiandi tshiakadi tshikole.
+31 Yeye wakatuma bamessager kudi Abimeleke mu musokoko bamba ne, Gala, muana wa Ebede, ne bana babo bakatua ku Shekeme, badi bakeba mua kukutombueshila bena musoko.
+32 Nunku ulue biebe mu butuku, wewe ne bantu badi nʼebe, nubalamine mu tshisuku;
+33 ne dinda habanda diba, wewe ubike hatshiatshia, uye ku musoko lubilu; hashishe haluhukeye ne bantu hadiye nʼabo bua kuluangana nʼebe, wewe neubenzele bu mûdi musue.
+34 Nunku Abimeleke wakabika ne bantu bonso bakadi nʼandi, bakaya mu butuku, bakalamina ha buihi ne Shekeme, baditahulule bisumbu binai.
+35 Gala, muana wa Ebede, wakaluhuka, wakimana ku tshibi tshia musoko; ne Abimeleke ne bantu bakadi nʼandi bakabika kuakadibo balamina.
+36 Hakatangila Gala bantu aba, yeye wakambila Zebula ne, Tangila, bantu badi bahueka ku mutu kua mikuna. Zebula wakamuambila ne, Wewe udi utangila anu maledi a mikuna bu mudiu bantu.
+37 Kadi Gala wakamuambila kabidi ne, Tangila, bantu badi bahueka munkatshi mua mikuna, ne tshisumbu tshimue tshidi tshiluila mu nshila wa ku mutshi wa telebinta wa Meonenima.
+38 Hashishe Zebula wakamukonka ne, Mukana muebe muakamba ne, Abimeleke udi nganyi, bua tuetu aba kumukuatshia mudimu, mudi kudi kunyi? Aba kambantu bawakahetula, anyi? Ndi nkusengelela ne, Uye biebe, uluangana nʼabo.
+39 Gala wakaya ku mpala kua bena Shekeme, wakaluangana ne Abimeleke.
+40 Abimeleke wakamuihata, yeye wakanyema ku mpala kuandi, ne ba bungi bakahona hanshi batahike mputa, tô ne ku mbelu kua tshibi tshia musoko.
+41 Abimeleke wakashikama ku Aluma; ne Zebula wakihata Gala ne bana babo bua bobo kabashikami mu Shekeme.
+42 Hakatshiabu bantu bakaya mu tshisuku, bakambila Abimeleke bualu ebu.
+43 Yeye wakangata bantu bandi, wakabatahulula mu bisumbu bisatu, bakalamina; wakatangila bantu baluhuka ku musoko, ne yeye wakabika, wakabaluisha ne wakabashiha.
+44 Abimeleke ne bisumbu biakadi nʼandi bakaya lubilu, bakimana ku tshibi tshia musoko, ne bisumbu bibidi biakaya, biakatantshila bonso bakadi mu tshisuku, bakabashiha.
+45 Abimeleke wakaluangana ne bena musoko dituku adi dionso, wakanyenga musoko, wakashiha bantu bonso bakadimu. Wakabutula musoko, wakanuaminamu luehu.
+46 Hakunvua bantu bonso bakadi mu tshibumba tshia mu Shekeme lumu elu, bakabuela mu nsubu wa mabue wa Ele-belita.
+47 Bakambila Abimeleke ne, Bantu bonso bakadi mu tshibumba tshia mu Shekeme bakadisangisha hamue.
+48 Hashishe Abimeleke wakabanda ku mukuna wa Salemona, yeye ne bantu bonso bakadiye nʼabo; Abimeleke wakangata tshisui mu tshianza tshiandi, wakakosa nʼatshi ditamba dia mutshi, wakaditeka ha diaha diandi, yeye wakambila bantu bakadi nʼandi ne, Nuakatangila munakuenza, enzai bu munakuenza lubilu.
+49 Bantu aba bonso, muntu ne muntu, bakakosa matamba, bakalonda Abimeleke, bakâteka kuinshi kua nsubu, bakosha nsubu ne kahia; nunku bantu bonso bakadi mu tshibumba tshia mu Shekeme bakafua kabidi, bu bantu tshinunu ne balume ne bakashi.
+50 Hashishe Abimeleke wakaya ku Tebese, wakaluangana ne Bena Tebese, wakaunyenga.
+51 Kadi tshibumba tshikole tshiakadi mu musoko, ne balume bonso ne bakashi bonso ba mu musoko bakanyemenamu, bakinshila bibi; bakahanda ku mutu kua tshibumba.
+52 Abimeleke wakalua ha buihi ne tshibumba, wakaluangana ne benʼatshi, wakasemena ku tshibi tshia tshibumba bua kutshiosha ne kahia.
+53 Kadi mukashi mukuabo wakela dibue dia mpelu dinene ha mutu wa Abimeleke, wakahanda kabalubalu kandi.
+54 Hashishe yeye wakabikila nsongalume, mutuadi wa ngabu wandi, wakamuambila ne, Tula muele webe wa nvita lubilu, unshihe; bantu kabambi ne, Mukashi wakamushiha. Nsongalume wandi wakamutua muele, yeye wakafua biandi.
+55 Hakatangila Bena Isalele ne, Abimeleke wakafua, bakaya muntu ku muaba wandi muntu ku muaba wandi.
+56 Nunku Nzambi wakasombuela bubi bua Abimeleke buakenzeleye tatu wandi hakashiheye bana babo makumi muanda mutekete.
+57 Nzambi wakasombuela bena Shekeme kabidi bua malu mabi onso akenzabo; mulau wa Yotama, muana wa Yelubâla, wakabeleye wakalua ha mitu habo.
+
+Judges 10
+1 Ku nyima kua Abimeleke, Tola, muana wa Puwa, muana wa Dodo, wa mu tshisamba tshia Yisakâ, wakabika, wakasungila Bena Isalele; yeye wakadi mushikame ku Shamî wa ku mikuna ya Efelayima.
+2 Yeye wakalumbulula Bena Isalele bidimu makumi abidi ne bisatu, wakafua biandi, bakamujika mu Shami.
+3 Yai, Muena Gilada, wakabika ku nyima kuandi, wakalumbulula Bena Isalele bidimu makumi abidi ne bibidi,
+4 Yeye wakadi ne bana balume makumi asatu bakadi benda ha nyima ha bana ba nyama ya mpunda makumi asatu, bakadi ne misoko makumi asatu idibo babikila ne, Hawota-yai tô ne lelu, idi mu buloba bua Gilada.
+5 Yai wakafua, bakamujika mu Kamona.
+6 Bena Isalele bakenza malu mabi ku mesu kua Yehowa, bakatendelela Babala ne Bashatelota ne nzambi ya Bena Sulia ne nzambi ya Bena Sidona ne nzambi ya Bena Moaba ne nzambi ya Bena Amona ne nzambi ya Bena Peleshete; bakalekela Yehowa, ka bakamuenzela mudimu.
+7 Tshiji tshia Yehowa tshiakadi kudi Bena Isalele, yeye wakabahana mu bianza bia Bena Peleshete ne bia Bena Amona.
+8 Bobo bakatatshisha, bakakengesha Bena Isalele tshidimu atshi. Bakatatshisha Bena Isalele bonso bakadi dishiya dia Yadene mu buloba bua Bena Amole budi mu Gilada bidimu dikumi ne muanda mukulu.
+9 Bena Amona bakasabuka dishiya dia Yadene bua kuluanganabo ne Bena Yuda ne Bena Benyamina ne Bena Efelayima; Bena Isalele bakadi ne ntatu ya bungi.
+10 Bena Isalele bakadila kudi Yehowa, bamba ne, Tuetu tuakakuenzela bibi, bualu bua tuetu tuakalekela Nzambi wetu, tuakakuatshila Babâla mudimu.
+11 Yehowa wakambila Bena Isalele ne, Tshiakanusungila kudi Bena Ejipitu ne kudi Bena Amole ne kudi Bena Amona ne kudi Bena Peleshete, anyi?
+12 Bena Sidona kabidi ne Bena Amaleka ne Bena Maona bakanutatshisha; nuenu nuakadila kundi, nakanusungila mu bianza biabo.
+13 Kadi nuenu nuakandekela, nuakakuatshila nzambi mikuabo mudimu, tshiena nnusungila kabidi.
+14 Yai bienu, nudile kudi nzambi inuakasungula; musungile mu ntatu yenu.
+15 Bena Isalele bakambila Yehowa ne, Tuakenza bibi, utuenzele bu mûdi musue, kadi anji kutusungila lelu, tudi tukusengelela.
+16 Bobo bakumusha nzambi ya bende yakadi munkatshi muabo, bakakuatshila Yehowa mudimu; ne mutshima wandi wakanyingalala bua ntatu ya Bena Isalele.
+17 Hashishe Bena Amona bakadisangisha hamue, bakatula tshitudilu tshiabo mu Gilada. Bena Isalele bakadi badisangisha hamue, bakatula tshitudilu tshiabo mu Misepa.
+18 Bantu ne bakelenge ba mu Gilada bakakonkangana ne, Muntu kai wahanga nvita bua kuluangana ne Bena Amona? Yeye mene neikale ku mutu kua Bena Gilada bonso.
+
+Judges 11
+1 Yefeta, Muena Gilada, wakadi muena nvita wa bukitu, wakadi muana wa mukashi wa masandi; Gilada wakalela Yefeta.
+2 Mukashi wa Gilada wakamulelela bana ba balume; hakakola bana ba mukashi wandi mene, bobo bakihata Yefeta, bakamuambila ne, Wewe kuena ne buhianyi mu nsubu wa tatu wetu, bualu bua wewe udi muana wa mukashi wa bende.
+3 Hashishe Yefeta wakanyema ku mesu kua bana babo, wakashikama mu buloba bua Tobo; ne bantu ba hatuhu bakadisangishaku kudi Yefeta, bakaluhuka nʼandi.
+4 Hakahita tshikondo, Bena Amona bakaluisha Bena Isalele nvita.
+5 Hakaluangana Bena Amona ne Bena Isalele nunku, bakulu ba mu Gilada bakaya kuangata Yefeta ku buloba kua Tobo;
+6 bakambila Yefeta ne, Lua biebe, wikale kapitene ketu bua tuluangane nvita ne Bena Amona.
+7 Yefeta wakambila bakulu ba mu Gilada ne, Nuenu kanuakadi nʼanyi lukuna, kanuakungihata mu nsubu wa tatu wanyi, anyi? Nudi nulua kundi hanudi ne dikenga bualu kai?
+8 Bakulu ba mu Gilada bakambila Yefeta ne. Bua bualu ebu mpindiu tuakuhingana kûdi kabidi bua wewe uye nʼetu bua kuluangana ne Bena Amona; wewe newikale mukelenge wetu wa Bena Gilada bonso.
+9 Yefeta wakakonka bakulu ba mu Gilada ne, Binuaya nʼanyi kuetu kabidi bua kuluangana ne Bena Amona, ne biabafila Yehowa ku mpala kuanyi, nengikale mukelenge wenu, anyi?
+10 Bakulu ba mu Gilada bakambila Yefeta ne, Yehowa ikale mumanyi wa bualu hankatshi hetu; bulelela, netuenze bu mu dî diebe.
+11 Hashishe Yefeta wakaya ne bakulu ba mu Gilada, ne bantu bakamuteka mukelenge ku mutu kuabo; Yefeta wakamba mei andi onso ku mpala kua Yehowa mu Misepa.
+12 Yefeta wakatumina mukelenge wa Bena Amona ba-messager, bamba ne, Udi nʼanyi bualu kai bûdi uluila kundi bua kuluangana mu buloba buanyi?
+13 Mukelenge wa Bena Amona wakakudimuna ba-messager ba Yefeta dî ne, Bualu bua Bena Isalele bakanyenga buloba buanyi hakaluabo mu Ejipitu, ku musulu wa Ânona tô ne ku Yaboka ne ku Yadene; nunku utuhingishile maloba au kabidi talalâ.
+14 Yefeta wakatumina mukelenge wa Bena Amona ba-messager bakuabo kabidi,
+15 bakamuambila ne, Yefeta udi Wamba nunku: Bena Isalele kabakanyenga buloba bua Moaba anyi buloba bua Bena Amona;
+16 kadi hakaluhukabo mu Ejipitu, ne Bena Isalele bakahitshila mu tshihela tô ne ku Dishiba Dikunze, bakafika ku Kadesha;
+17 hashishe Bena Isalele bakatumina mukelenge wa Edome ba-messager, bamba ne, Tudi tukusengelela ne, Anji kuitabusha bua tuetu kuhitshila mu buloba buebe; kadi mukelenge wa Edome kakabunvuila. Bakatumina mukelenge wa Moaba ba-messager muomumue, kadi yeye kakitabusha; ne Bena Isalele bakashikama mu Kadesha.
+18 Hashishe bakahitshila mu tshihela, bakanyunguluka buloba bua Edome ne buloba bua Moaba kabidi, bakayila ku esete kua buloba bua Moaba, bakashikama dishiya dia musulu wa Ânona; kadi kabakabuela mu mu-kalu wa Moaba, bualu bua Ânona wakadi mukalu wa Moaba.
+19 Bena Isalele bakatumina Sihona, mukelenge wa Bena Amole, mukelenge wa mu Heshebona, ba-messager; Bena Isalele bakamuambila ne, Tudi tukusengelela ne, Witabushe bua tuetu kuhitshila mu buloba buebe, tuye ku buloba buetu.
+20 Kadi Sihona kakitabusha bua Bena Isalele bahitshile mu buloba buandi; kadi Sihona wakasangisha bantu bandi bonso, bakatula tshitudilu tshiabo mu Yahasa, bakaluangana ne Bena Isalele.
+21 Yehowa, Nzambi wa Isalele, wakafila Sihona ne bantu bandi bonso mu bianza bia Bena Isalele, ne bobo bakabashiha; nunku Bena Isalele bakangata buloba bua Bena Amole, bantu ba ku luseke alu.
+22 Bakangata buloba buonso bua Bena Amole ku mikalu yabo yonso, ku Ânona tô ne ku Yaboka, ne ku tshihela tô ne ku Yadene.
+23 Nunku Yehowa, Nzambi wa Isalele, wakumusha Bena Amole ku mpala kua bantu bandi Bena Isalele; ne wewe neubakokeshe, anyi?
+24 Kuena ukokesha buloba buakakuha Kamoshe, nzambi webe, bua kukokesha, anyi? Nunku bantu bonso badi Yehowa, Nzambi wetu, Wihata ku mpala kuetu, netubakokeshe mene.
+25 Katataka wewe udi uhita Balaka, muana wa Sipô, mukelenge wa Moaba, buimpe, anyi? Yeye wakalesha Bena Isalele, yeye wakaluangana nʼabo, anyi?
+26 Hakadi Bena Isalele bashikama mu Heshebona ne mu misoko yabo ne mu Aloê ne mu misoko yabo ne mu misoko yonso idi ku muelelu wa mai a Ânona bidimu nkama isatu, bualu kai kuakayangata musangu au?
+27 Nunku meme tshiakakuenzela bibi, kadi wewe udi ungenzela meme bibi bua kuluangana nʼanyi; Yehowa, Mulumbuluishi, ikale mulumbuluishi hankatshi ha Bena Isalele ne Bena Amona lelu.
+28 Kadi mukelenge wa Bena Amona kakunyua mei a Yefeta akamutumineye.
+29 Hashishe Nyuma wa Yehowa wakatulukila Yefeta, wakahitshila mu Gilada ne Manashe, ne Misepa wa Gilada; wakumuka ku Misepa wa Gilada, wakafika kudi Bena Amona.
+30 Yefeta wakaditshiha kudi Yehowa ne, Biwafila Bena Amona mu tshianza tshianyi,
+31 hashishe tshionso tshidi tshiluhuka ku bibi bia nsubu wanyi bua kusangakena nʼanyi, hanahingana kudi Bena Amona ne ditalala, netshikale tshia Yehowa, nentshifile bu mulambu wa kuosha ha kahia.
+32 Nunku Yefeta wakafika kudi Bena Amona bua kuluangana nʼabo, ne Yehowa wakabafila mu tshianza tshiandi.
+33 Yeye wakabashiha ku Aloê tô ne ku Minita, misoko makumi abidi mene, tô ne ku Abele-kelamima; wakashiha bantu ba bungi. Nunku Bena Amona bakateketa ku mpala kua Bena Isalele.
+34 Yefeta wakalua ku Misepa ku nsubu kuandi; ne muanʼandi wa bakashi wakaluhuka bua kusangakeneye nʼandi ne bisanji ne bena maja; yeye wakadi muana wandi umuehele, yeye kakadi ne muana wa balume anyi muana wa bakashi mukuabo.
+35 Hashishe, hakamutangileye, yeye wakadihanda bilulu biandi, wakamba ne, Aka! muanʼanyi, wewe wakatamba kumpuekesha, wewe udi umue wa munkatshi mua banutatshisha; bualu bua meme nakabulula mukana muanyi kudi Yehowa, tshiena mua kualukila ku nyima.
+36 Yeye wakamuambila ne, Tatu wanyi, wewe wakabulula mukana muebe kudi Yehowa, ungenzele bu mu dî diakahatuka mukana muebe, bualu bua Yehowa wakasombuela bena lukuna bebe, Bena Amona mene, bualu buebe.
+37 Yeye wakambila tatu wandi kabidi ne, Bangenzele bualu ebu; bandekele ngondo ibidi bua meme kuya ne balunda banyi ku mikuna bua kujinga matuku antshidi kamama.
+38 Yeye wakamuambila ne, Ya biebe. Yeye wakamutuma ha bule tô ngondo ibidi; yeye wakaya ne balunda bandi, bakajinga matuku akatshidiye kamama ku mutu kua mikuna.
+39 Hakahita ngondo ibidi, yeye wakahingana kudi tatu wandi, ne yeye wakamuenzela bu mu kuditshiha kuakaditshiheye; yeye kakadi mumanye mulume. Bakadi ne tshilele etshi mu Isalele,
+40 bua bana bakashi ba mu Isalele baye ku tshidimu ku tshidimu bua kujingabo muana mukashi wa Yefeta, Muena Gilada, tô matuku anai ku tshidimu ku tshidimu.
+
+Judges 12
+1 Bena Efelayima bakadisangisha hamue, bakaya ku luseke lua ku node; bakambila Yefeta ne, Wewe wakasabuka bua kuluangana ne Bena Amona, kuakatubikila bua tuetu kuya nʼebe bualu kai? Netuoshe nsubu webe ne kahia ne wewe kabidi.
+2 Yefeta wakabambila ne, Meme ne bantu banyi tuakadi ne nvita mikole kudi Bena Amona, ne hanakanubikila, nuenu kanuakansungila mu bianza biabo.
+3 Hanakatangila ne nuenu kanuakansungila, nakateka muoyo wanyi mu tshianza tshianyi, nakasa buka kudi Bena Amona, ne Yehowa wakabafila mu tshianza tshianyi; nuakalua kundi bua kunduisha lelu munyi?
+4 Hashishe Yefeta wakasangisha Bena Gilada bonso, bakaluangana ne Bena Efelayima; Bena Gilada bakashiha Bena Efelayima, bualu bua bobo bakamba ne, Nuenu Bena Gilada nudi banyemi ba Efelayima ba munkatshi mua Bena Efelayima ne ba munkatshi mua Bena Manashe.
+5 Bena Gilada bakanyenga malobo a Yadene akadi a Bena Efelayima. Nunku hakalua munyemi yonso wa munkatshi mua Bena Efelayima Wamba ne, Ndi musue kusabuka, Bena Gilada bakamukonka ne, Wewe udi Muena Efelayima, anyi? Biakitabeye ne, Nansha,
+6 bobo bakamuambila ne, Wambe biebe ne, Shiboleta; ne yeye wakamba ne, Siboleta, bualu bua yeye kakadi mua kuamba dî adi bimpe; hashishe bakamukuata, bakamushihela ku malobo a Yadene. Ku tshikondo atshi Bena Efelayima binunu makumi anai ne bibidi bakafua.
+7 Yefeta wakalumbulula Bena Isalele bidimu bisambombo. Hashishe Yefeta, Muena Gilada, wakafua, bakamujika mu umue wa misoko ya Bena Gilada.
+8 Ku nyima kuandi Ibisana, Muena Beteleheme, wakalumbulula Bena Isalele.
+9 Yeye wakadi ne bana balume makumi asatu, ne bana bakashi makumi asatu bakatumeye ha bula ku mabaka; yeye wakangata bana bakashi makumi asatu bakadi ha bula bu bakashi ba bana bandi balume. Yeye wakalumbulula Bena Isalele bidimu muanda mutekete.
+10 Ibisana wakafua, bakamujika mu Beteleheme.
+11 Ku nyima kuandi Elona, Muena Zebuluna, wakalumbulula Bena Isalele; yeye wakalumbulula Bena Isalele bidimu dikumi.
+12 Elona, Muena Zebuluna, wakafua; bakamujika mu Ayalona mu buloba bua Zebuluna.
+13 Ku nyima kuandi Abidona, muana wa Hilele, Muena Pilatona, wakalumbulula Bena Isalele.
+14 Yeye wakadi ne bana balume makumi anai ne bikulu makumi asatu bakenda ha nyima ha bana ba nyama ya mpunda makumi muanda mutekete; yeye wakalumbulula Bena Isalele bidimu muanda mukulu.
+15 Abidona, muana wa Hilele, Muena Pilatona, wakafua; bakamujika mu Pilatona mu buloba bua Efelayima, ku mikuna ya Bena Amaleka.
+
+Judges 13
+1 Bena Isalele bakenza malu mabi ku mesu kua Yehowa kabidi, ne Yehowa wakabafila mu bianza bia Bena Peleshete bidimu makumi anai.
+2 Muntu mukuabo wa mu Solea, wa mu diku dia Bena Dana, wakadiku, dina diandi Manoa; mukashi wandi wakadi nkumba, kakadi mulele.
+3 Muanjelo wa Yehowa wakamueneka kudi mukashi, wakamuambila ne, Tangila, wewe udi nkumba, kuena muanze kulela; kadi wewe newimite difu, neulele muana wa balume.
+4 Nunku udimuke biebe, ndi nkusengelela, kunu nvinyo anyi maluvu makole, kudi tshintu tshidi katshiyi tshimpe;
+5 mona, wewe newimite difu, neulele muana wa balume; dihaya kadibeyi ku mutu kuandi; bualu bua muana eu neikale Munazi kudi Nzambi ku difu dia mamu wandi; yeye neabange kusungila Bena Isalele mu bianza bia Bena Peleshete.
+6 Hashishe mukashi wakalua, wakambila bayandi ne, Muntu wa Nzambi wakalua kundi, mpala wandi wakadi mufuane mpala wa muanjelo wa Nzambi, wakuntshinyisha; meme tshiakumuebesha kuakafumeye ne yeye kakungambila dina diandi;
+7 kadi yeye wakungambila ne, Mona, wewe newimite difu, neulele muana wa balume; nunku kunu nvinyo anyi maluvu makole, kudi tshintu tshidi katshiyi tshimpe; bualu bua muana eu neikale Munazi kudi Nzambi ku difu diebe, tô ne ku dituku dia lufu luandi.
+8 Hashishe Manoa wakasengelela Yehowa, wakamba ne, Mukelenge, ndi nkusengelela ne, Witabushe bua muntu wa Nzambi uwakatuma alue kutudi kabidi bua kutuyisha tshibidi mua kuenzela muana utualela.
+9 Nzambi wakunyua dî dia Manoa, ne muanjelo wa Yehowa wakalua kudi mukashi kabidi hakadiye mushikame mu budimi, kadi Manoa bayandi kakadi nʼandi.
+10 Mukashi wakaya lubilu, wakamanyisha bayandi ne, Mona, muntu au wakalua kundi dituku dikuabo wakumueneka kundi.
+11 Manoa wakabika, wakalonda mukashi wandi, wakalua kudi muntu eu, wakamuebesha ne, Wewe udi muntu wakadi uyikila ne mukashi eu, anyi? Yeye wakamba ne, Mmeme.
+12 Manoa wakamba ne, Bualu buenjibue bu mu dî diebe; nendiundishe muana munyi, netumuenzele tshinyi?
+13 Muanjelo wa Yehowa wakambila Manoa ne, Mukashi adimuke bua mei onso anakamuambila.
+14 Kadi tshintu tshiakadiunda ku muonshi wa tumuma tua nvinyo, kanu nvinyo anyi maluvu makole, kadi tshintu tshidi katshiyi tshimpe; enze biandi malu onso anakamuambila.
+15 Manoa wakambila muanjelo wa Yehowa ne, Ndi nkusengelela, anji kushala kunoko, tukulongoluele kana ka mbushi.
+16 Muanjelo wa Yehowa wakambila Manoa ne, Biwangindisha, tshiena ndia bidia biebe, ne biwalongolola mulambu wa kuosha, bûdi nʼabu mbua kûfila kudi Yehowa. Bualu bua Manoa kakamanya ne, Yeye udi muanjelo wa Yehowa.
+17 Manoa wakakonka muanjelo wa Yehowa ne, Dina diebe nganyi, bua tuetu tukutumbishe hashika mei ebe?
+18 Muanjelo wa Yehowa wakamuebesha ne, Udi unkonka dina dianyi bualu kai? Mona, didi bualu bua dikema.
+19 Nunku Manoa wakangata kana ka mbushi ne mulambu wa bukula, wakabifila kudi Yehowa ha mutu ha dibue; ne muanjelo wakenza malu a kukema; Manoa ne mukashi wandi bakatangila.
+20 Bualu bua hakabanda ludimi lua kahia mulu lufume ku tshioshelu, muanjelo wa Yehowa wakabanda mu ludimi lua kahia lua ku tshioshelu; Manoa ne mukashi wandi bakatangila, bakatua mpala yabo hanshi.
+21 Kadi muanjelo wa Yehowa kakamueneka kudi Manoa anyi kudi mukashi wandi kabidi. Hashishe Manoa wakamanya ne, Yeye wakadi muanjelo wa Yehowa.
+22 Manoa wakambila mukashi wandi ne, Netufue bulelela, bualu bua tuakumona Nzambi.
+23 Kadi mukashi wandi wakamuambila ne, Bu Yehowa musue kutushiha, yeye kakadi kuitabusha mulambu wa kuosha ne mulambu wa bukula ku bianza bietu, ne yeye kakadi kutulesha malu â onso kabidi, ne yeye kakadi kubambila malu â ku tshikondo etshi.
+24 Mukashi wakalela muana wa balume, wakamuidika dina ne, Shimishona. Muana wakadiunda, ne Yehowa wakamusankisha.
+25 Nyuma wa Nzambi wakabanga kumuenzesha mu Mahane-dana, hankatshi ha Solea ne Eshetaola.
+
+Judges 14
+1 Shimishona wakahueka ku Timena, wakatangila mukashi wa mu bana bakashi ba Bena Peleshete.
+2 Yeye wakabanda, wakamanyisha tatu wandi ne mamu wandi, wakamba ne, Nakatangila mukashi mu Timena wa mu bana bakashi ba Bena Peleshete, numungangatshile bu mukashi wanyi.
+3 Hashishe tatu wandi ne mamu wandi bakamuebesha ne, Kakuena mukashi munkatshi mua bana bakashi ba bana betu anyi munkatshi mua bantu bonso ba mu tshisamba tshietu, bua wewe kuya kuangata mukashi kudi Bena Peleshete badi kabayi batengula, anyi? Kadi Shimishona wakambila tatu wandi ne, Umungangatshile, bualu bua yeye udi utamba kunsankisha bimpe.
+4 Kadi tatu wandi ne mamu wandi kabakamanya ne, Bualu ebu buakafuma kudi Yehowa, bualu bua yeye wakadi ukeba bualu kudi Bena Peleshete. Ku tshikondo atshi Bena Peleshete bakadi bakokesha Bena Isalele.
+5 Hashishe Shimishona wakahueka ne tatu wandi ne mamu wandi ku Timena, bakalua ku madimi a tumuma tua mu Timena, ne muana wa nyama wa ntambue wakasangakena nʼandi udila.
+6 Nyuma wa Yehowa wakamutulukila bikole, ne yeye wakamuhanda, bu muakadiye mua kubanda kana ka mbushi; yeye kakadi ne tshintu mu tshianza tshiandi; yeye kakambila tatu wandi anyi mamu wandi bualu buakenzeye.
+7 Wakaya biandi, wakayikila ne mukashi, ne yeye wakasankisha Shimishona bimpe.
+8 Dituku dikuabo yeye wakahingana kudiye bua kumuangata bu mukashi wandi, ne yeye wakasesuka mu nshila bua kumoneye tshitalu tshia nyama wa ntambue; ne monai, tshisumbu tshia mbulubulu ne buitshi biakadi munda mua tshitalu tshia nyama wa ntambue.
+9 Yeye wakamuangata mu bianza biandi, wakaya, wenda ubudia; wakahingana kudi tatu wandi ne mamu wandi, wakabahabu, ne bobo bakabuela; kadi yeye kakabambila ne, Nakangata buitshi munda mua tshitalu tshia nyama wa ntambue.
+10 Tatu wandi wakahueka kudi mukashi au, ne Shimishona wakabalambishila bidia bia disanka, bualu bua etshi tshiakadi tshilele tshiakadi bansongalume benza.
+11 Hakamutangilabo, bakalua kudiye ne balunda bandi makumi asatu bua kuikalabo nʼandi.
+12 Shimishona wakabambila ne, Ndi musue kunuebesha dijimbu, ne binuamanya mua kudijingulula mu matuku muanda mutekete a bidia bia disanka, binuadisokolola, nennuhe bilulu bia lin makumi asatu ne bilulu bikuabo makumi asatu;
+13 kadi binuahanga kudijingulula, nuenu nenumpe bilulu bia lin makumi asatu ne bilulu bikuabo makumi asatu. Bobo bakamuambila ne, Ambaku dijimbu diebe, tuetu tudiunvue.
+14 Yeye wakabambila ne,
+15 Hakalua dituku dia muanda mutekete, bakambila mukashi wa Shimishona ne, Wewe witabushishe bayebe bua atujinguluile dijimbu, anyi tuetu netuoshe nsubu wa tatu webe ne kahia. Kanuakatumikila anu bua kutuvuisha bahele, anyi? Kabuena nunku, anyi?
+16 Mukashi wa Shimishona wakadila ku mpala kuandi wamba ne, Wewe udi nʼanyi lukuna, kuena munsue nansha. Wewe wakuela bana betu dijimbu, kuena mudinjinguluile. Yeye wakamukudimuna ne, Mona, tshiakuanza kudiambila tatu wanyi anyi mamu wanyi, nenkuambiledi, anyi?
+17 Yeye wakadila ku mpala kuandi tô matuku muanda mutekete hakadibo badia bidia bia disanka; ne hakalua dituku dia muanda mutekete, yeye wakamujinguluiladi, bualu bua yeye wakamutatshisha bikole; ne yeye wakajinguluila bana babo dijimbu.
+18 Bena musoko bakamukonka dituku dia muanda mutekete diambedi diba kadiyi dianze kubuela ne,
+19 Nyuma wa Yehowa wakamutulukila bikole, yeye wakahueka ku Ashekelona, wakashiha balume babo makumi asatu, wakangata bivualu biabo, wakabifila kudi bantu bakajingulula dijimbu diandi. Tshiji tshiandi tshiakatamba kutema; yeye wakabanda ku nsubu wa tatu wandi.
+20 Kadi bobo bakavua bafila mukashi wa Shimishona kudi muntu mukuabo, wakadi mulunda wa Shimishona diambedi.
+
+Judges 15
+1 Kadi dituku dikuabo, mu tshidimu tshia kuhuolabo blé, Shimishona wakaya kutangila mukashi wandi ne kana ka mbushi; yeye wakamba ne, Nembuele kudi mukashi wanyi mu nsubu. Kadi tatu wandi wa mukashi kakitabusha bua yeye aye.
+2 Tatu wandi wa mukashi wakamuambila ne, Nakela ngana meji ne wewe wakadi nʼandi tshiji tshikole, nunku nakamufila kudi mulunda webe; muakunyʼandi kena umuhita bulengele kumona, anyi? Umuangate, ndi nkusengelela, mu muaba wandi.
+3 Shimishona wakabambila ne, Musangu eu nengikale mubingishibue kudi Bena Peleshete, hanabenzela bibi.
+4 Shimishona wakaya, wakakuata mibuabua nkama isatu, wakangata bimunyi, wakasuikakana mikila, wakasuika tshimunyi hankatshi ha mikila ibidi ibidi.
+5 Hakatemesheye bimunyi kahia, yeye wakayituma mu madimi a blé a Bena Peleshete, nunku blé yakadi misuika mu bisumbu ne yakadi mimanyike, ne mitshi ya olive kabidi biakoshibua.
+6 Hashishe Bena Peleshete bakakemangana ne, Wakuenza bualu ebu nganyi? Bakamba ne, Shimishona, muku wa Muena Timena, bualu bua yeye wakangata mukashi wandi, wakamufila kudi mulunda wandi. Bena Peleshete bakalua, bakosha mukashi au ne tatu wandi ne kahia.
+7 Shimishona wakabambila ne, Binuenza nunku, bulelela, nennusombuele, ne ku nyima nendekele.
+8 Yeye wakabakosolola bituha bituha ne kushiha kukole; wakaya, wakashikama mu lubuebue lua dibue dia Etama.
+9 Hashishe Bena Peleshete bakabanda, bakasa tshitudilu mu Yuda, bakashimika ntenta yabo mu Lehi.
+10 Bena Yuda bakakonka ne, Nuakulua kutuluisha bualu kai? Bakamba ne, Tuakuluila bua kusuika Shimishona, ne bua kumuenzela yeye bu muakatuenzeleye.
+11 Hashishe Bena Yuda binunu bisatu bakaya ku lubuebue lua mu dibue dia Etama, bakambila Shimishona ne, Kuena mumanye ne, Bena Peleshete badi batukokesha, anyi? Bualu ebu buwakatuenzela budi tshinyi? Yeye wakabambila ne, Nakabenzela bu muakangenzelabo.
+12 Bakamuambila ne, Tuakuluila bua kukusuika, ne bua tuetu tukufile mu bianza bia Bena Peleshete. Shimishona wakamba ne, Nuditshihe kundi ne nuenu nkayenu kanushihi.
+13 Bobo bakamuambila ne, Nansha, kadi netukusuike bikole, ne tukufile mu bianza biabo, katuena tukushiha nansha. Bakamusuika ne mionshi mihia-mihia ibidi, bakumuka nʼandi ku dibue.
+14 Hakaluabo nʼandi ku Lehi, Bena Peleshete bakela tshibingu hakasangakenabo nʼandi; Nyuma wa Yehowa wakamutulukila bikole, ne mionshi yakadi ku maboko andi yakavingutuka bu nuosha mu kahia, ne nkanu yandi yakakohoka ku bianza biandi.
+15 Yeye wakasangana mufuba mubishi wa lubanga lua mpunda, wakolola tshianza tshiandi, wakawambula, wakashiha nʼau bantu tshinunu.
+16 Shimishona wakamba ne,
+17 Hakashikisheye kuamba mei au, yeye wakela mufuba wa lubanga wakadi mu tshianza tshiandi hanshi; bakidika muaba au ne, Lamata-lehi.
+18 Yeye wakadi ne nyota mikole, wakabikila Yehowa, wakamba ne, Wewe wakafila luhandu elu lunene ku tshianza tshia muena mudimu webe, ne katataka nenfue bua nyota, nempone mu bianza bia bantu badi kabayi batengula.
+19 Kadi Nzambi wakahanda dina diakadi mu dibue dia Lehi ne mai akahatuka; hakanueye mai, muoyo wandi wakahingana ne yeye wakasangala; nunku wakidika muaba au ne, Enehakole, udi mu Lehi tô ne lelu.
+20 Yeye wakalumbuluila Bena Isalele mu matuku a Bena Peleshete bidimu makumi abidi.
+
+Judges 16
+1 Shimishona wakaya ku Gaza, wakatangilaku mukashi wa masandi, wakabuela kudiye.
+2 Bakambila Bena Gaza ne, Shimishona wakulua munemu. Bakamunyunguluka, bakalala butuku buonso ku tshibi tshia ku musoko, bamuindile balamine; bakalala talalâ butuku buonso bamba ne, Tuanji kumuindila ne hatshiabu, netumushihe.
+3 Shimishona wakalalamu tô ne mundankulu, wakabika mundankulu, wakakuata bibi bia ku musoko, ne makunshi abi abidi, wakabitula ne biamu bionso, wakabiteka ha maha andi, wakaya nʼabi tô ne ku mutu kua mukuna munene udi ku mpala kua Hebelone.
+4 Ku nyima kua malu au yeye wakananga mukashi wa mu tshibanda tshia Soleka, dina diandi Delila.
+5 Bakelenge ba Bena Peleshete bakaha kudiye, bakamuambila ne, Umuitabushishe bua kujingulula mudi bukole buandi, ne mua tuetu kumanya mua kumuhita bukole, ne bua tuetu kumusuika, kumukengesha; ne buonso buetu, muntu ne muntu, netukuhe argent tshinunu tshimue ne lukama lumue.
+6 Delila wakambila Shimishona ne, Ndi nkusengelela ne, Ungambileku ne mudi bukole buebe bunene, ne bu mudibo bamanye mua kukusuika bua kukukengesha.
+7 Shimishona wakamuambila ne, Biansuikabo ne milemu mibishe muanda mutekete, idi kayiyi mianze kûma, nentekete, nengikale bu muntu mukuabo.
+8 Hashishe bakelenge ba Bena Peleshete bakalua kudiye ne milemu mibishe muanda mutekete yakadi kayiyi mianze kûma, ne yeye wakamusuika nʼai.
+9 Yeye wakamana kuteka bantu bu balaminyi bakadi balala munda mua nsubu; yeye wakamuambila ne, Shimishona, Bena Peleshete badi hamʼbidi hebe. Yeye wakatula milemu bu mudibo hatula nshinga wa mitshi ya diamba, hautuabo kahia. Nunku kabakadi bamanye bukole buandi kuakafumabu.
+10 Delila wakambila Shimishona ne, Mona, wakunseka, wakunshima; katataka ndi nkusengelela ne, Ungambile mudibo mua kukusuika.
+11 Yeye wakamuambila ne, Biansuikabo ne mionshi mihia-mihia idibo kabayi banze kuenza nʼai mudimu, nentekete, nengikale bu muntu mukuabo.
+12 Nunku Delila wakangata mionshi mihia-mihia, wakamusuika nʼai, wakamuambila ne, Shimishona, Bena Peleshete badi hamʼbidi hebe. Balaminyi bakadi balala munda mua nsubu. Yeye wakakula ku maboko andi bu buanda.
+13 Delila wakambila Shimishona ne, Diambedi wewe wakunseka, wakungambila anu mashimi, ungambile mudibo mua kukusuika. Yeye wakamuambila ne, Biwakuma bisumbu bia nsuki yanyi muanda mutekete mu mbungu.
+14 Yeye wakasuika nsuki yandi ne mundongo, wakamuambila ne, Shimishona, Bena Peleshete badi hamʼbidi hebe. Yeye wakatabala ku tulu tuandi, wakatula mundongo ne mbungu kabidi.
+15 Yeye wakamukonka ne, Wewe udi mua kuamba ne, Ndi mukusue munyi, hadi mutshima webe kauyi kundi? Wakunseka misangu ei isatu, kuena mungambile mudi bukole buebe bunene.
+16 Hakadiye umusengelela ne mei andi ku dituku ku dituku, wakamutatshisha, mutshima wandi wakatata tô ne ku lufu.
+17 Yeye wakamusokoluela malu onso akadi mu mutshima wandi, wakamuambila ne, Dihaya kadiena dianze kubeya ha mutu hanyi, bualu bua nakumana kuikala Munazi kudi Nzambi katshia ku difu dia mamu wanyi; biambeyabo, bukole buanyi nebumuke kundi, nentekete, nengikale bu muntu mukuabo.
+18 Hakatangila Delila ne, Yeye wakungambila malu onso a mu mutshima wandi, yeye wakatuma dî, wakabikila bakelenge ba Bena Peleshete, wamba ne, Luai bienu anu musangu eu, bualu bua yeye wakunsokoluela malu onso akadi mu mutshima wandi. Hashishe bakelenge ba Bena Peleshete bakalua kudiye ne argent mu bianza biabo.
+19 Yeye wakamuladika tulu ha bibelu biandi; yeye wakabikila mulume, wakamubeya bisumbu bia nsuki muanda mutekete yakadi ku mutu kuandi; yeye wakabanga kumukengesha ne bukole buandi buakumuka kudiye.
+20 Yeye wakamba ne, Shimishona, Bena Peleshete badi hamʼbidi hebe. Yeye wakatabala ku tulu tuandi, wamba ne, Nenduhuke bu misangu mikuabo ya diambedi, nendihandishe nkayanyi mu bianza biabo. Kadi yeye kakadi mumanye ne, Yehowa wakamana kundekela.
+21 Bena Peleshete bakamukuata, bakatunyina mesu andi, bakahueka nʼandi ku Gaza, bakamusuika ne nkanu ya tshiamu tshia mitaku; yeye wakadi uhela mu nsubu wa lukanu.
+22 Kadi nsuki ya ku mutu kuandi yakahanga kumena kabidi, hakamubeyabo.
+23 Bakelenge ba Bena Peleshete bakadisangisha hamue bua kufilabo mulambu munene kudi Dagona, nzambi wabo, ne bua kusankabo, bamba ne, Nzambi wetu wakafila Shimishona, muena lukuna wetu, mu bianza bietu.
+24 Hakamutangila bantu, bakatumbisha nzambi wabo, bakamba ne, Nzambi wetu wakafila muena lukuna wetu mu bianza bietu, wakadi muhaudi wa buloba buetu, wakatushiha ba bungi.
+25 Hakadi mitshima yabo isanka, bakamba ne, Bikilai Shimishona, alue kutusekesha. Bakabikila Shimishona mu nsubu wa lukanu; ne yeye wakahasekesha, bakamuteka hankatshi ha makunshi manene;
+26 Shimishona wakambila nsongalume wakadi umukuata ku tshianza ne, Witabushe bua meme kubenga bianza bianyi ku makunshi adi makuate nsubu, bua meme ngeyemeneku.
+27 Nsubu wakadi mule tente ne balume ne bakashi; bakelenge bonso ba Bena Peleshete bakadimu; ne bantu bu binunu bisatu ne balume ne bakashi bakadi ha mutu ha nsubu, batangile hakadi Shimishona ubasekesha.
+28 Shimishona wakabikila Yehowa, wakamba ne, Mukelenge Yehowa, unvuluke, ndi nkusengelela, unkoleshe anu musangu eu, ndi nkusengelela, Nzambi, bua meme kusombuela Bena Peleshete tshikondo tshimue, bua mesu anyi abidi.
+29 Shimishona wakakuata makunshi abidi akadi makuate nsubu, wakeyemenaku tshianza tshia bukole ku dikunshi dimue ne tshianza tshia bakashi ku dikunshi dikuabo.
+30 Shimishona wakamba ne, Nfuafue ne Bena Peleshete. Yeye wakaditshiha ne bukole buandi buonso, ne nsubu wakahukila bakelenge ne bantu bonso bakadimu. Nunku bantu bakashiheye mu lufu luandi bakahita bungi bua bantu bakashiheye hakadiye ne muoyo.
+31 Hashishe bana babo ne bonso ba mu nsubu wa tatu wandi bakalua, bakamuangata, bakaya nʼandi, bakamujika hankatshi ha Solea ne Eshetaola, mu majambu a Manoa, tatu wandi. Yeye wakalumbuluila Bena Isalele bidimu makumi abidi.
+
+Judges 17
+1 Muntu wakadiku wa ku mikuna ya Efelayima, dina diandi Mika.
+2 Yeye wakambila mamu wandi ne, Bituha bia argent tshinunu tshimue ne lukama lumue biakibabo kudi, bua wewe wakela bantu mulau bualu buai, wakamba bualu ebu mu matshu anyi; mona, argent ndi nʼai, meme nguakayangata. Mamu wandi wakamba ne, Yehowa akuvudishile disanka, muanʼanyi.
+3 Yeye wakatangisha bituha bia argent tshinunu tshimue ne lukama lumue kudi mamu wandi; mamu wandi wakamba ne, Ndi njidila Yehowa argent ku tshianza tshianyi bualu bua muanʼanyi, bua kusongeye nʼai mpingu ne bua kutuleye nʼai mpingu; nunku nenkuhingishileyi.
+4 Hakahingisheye argent kudi mamu wandi, mamu wandi wakangata argent nkama ibidi, wakayifila kudi mutudi wa biamu, nguakenza nʼai luhingu lusonga ne luhingu lutula; yakadi mu nsubu wa Mika.
+5 Muntu eu Mika wakadi ne nsubu wa mpingu, Wakenza kabidi efoda ne telafima, wakajidila umue wa bana bandi balume, wakalua muakuidi wandi.
+6 Mu matuku au kamuakadi mukelenge mu Isalele, muntu yonso wakenza anu malu akadi mimpe ku mesu kuandi.
+7 Nsongalume wakadiku wa mu Beteleheme-yuda, wa mu tshisamba tshia Yuda, wakadi Muena Lewi; wakasombaku.
+8 Muntu eu wakumuka ku musoko wa Beteleheme-yuda, bua kusomba kuakasanganeye muaba, mu luendu luandi yeye wakalua ku mikuna ya Efelayima ku nsubu wa Mika;
+9 Mika wakamukonka ne. Wewe Wakufuma kudi kunyi? Yeye wakamuambila ne. Ndi Muena Lewi wa ku Beteleheme-yuda, ndi nya kusomba kundi nsangane muaba.
+10 Mika wakamuambila ne. Ushikame nʼanyi, wikale bu tatu ne muakuidi kundi, nenkuhe bituha bia argent dikumi ku tshidimu ku tshidimu ne bilulu bia kuluata ne bia kudia biebe. Nunku Muena Lewi wakasomba.
+11 Muena Lewi wakadi ne disanka bua kushikameye ne muntu eu; nsongalume eu wakadi kudiye bu umue wa bana bandi balume.
+12 Mika wakajidila Muena Lewi, ne nsongalume wakalua muakuidi wandi, wakadi mu nsubu wa Mika.
+13 Hashishe Mika wakamba ne, Katataka ndi mumanye ne Yehowa neangenzele bimpe, bualu bua meme ndi ne Muena Lewi bu muakuidi wanyi.
+
+Judges 18
+1 Mu matuku au kamuakadi mukelenge mu Isalele; mu matuku au ba mu tshisamba tshia Dana bakakeba muaba wa kushikamabo; bualu bua tô ne ku dituku adi bobo kabakadi bangata buhianyi buabo munkatshi mua bisamba bia Isalele.
+2 Bena Dana bakatuma bantu batanu ba mu meku abo, bena bukitu ba ku Solea ne ba ku Eshataola bua kutentekelabo buloba ne bua kubutangilabo. Bakabambila ne, Yai bienu, nutangile buloba; bakalua ku mikuna ya Efelayima ku nsubu wa Mika, bakalalaku,
+3 Hakadibo ha buihi ne nsubu wa Mika, bakamanya dî dia nsongalume, Muena Lewi; bakasemena ha buihi, bakamukonka ne, Wakalua nʼebe kunoko nganyi? Udi wenza tshinyi mu muaba eu? Wakadila tshinyi kunoko?
+4 Yeye wakabambila ne, Mika wakangenzela nunku ne nunku, wakambuesha mu mudimu, nakalua muakuidi wandi.
+5 Bobo bakamuambila ne, Tudi tukusengelela ne, Utuebeshile Nzambi bua tuetu tumanye ne tudi ne diakalengele mu nshila wetu utuaya.
+6 Muakuidi wakabambila ne, Yai bienu talalâ, nshila unudi nuya udi ku mpala kua Yehowa.
+7 Hashishe balume aba batanu bakumuka, bakafika ku Layisha, bakatangila bantu bakadimu, bu muakashikamabo mu miaba mikole ne Bena Sidona, kabayi ne bualu; kakuakadi muntu mu buloba abu wakadi ne bukokeshi bua kubadisha bundu mu malu abo; bakadi kule ne Bena Sidona, kabakadi babuelakana ne bantu bakuabo.
+8 Bakahingana kudi bana babo ba ku Solea ne Eshetaola; bana babo bakakonka ne, Nudi nuamba tshinyi?
+9 Bakamba ne, Bikai, tuyai kubaluisha; bualu bua tuakatangila buloba ne budi buimpe; nuenu nenushikame tshianana, anyi? Kanujanguluki bua kuya ne bua kubuelamu ne bua kuhiana buloba.
+10 Hanuabuelamu nenusangane bantu badi bashikama mu miaba mikole, ne buloba budi bunene; bualu bua Nzambi wakafila buloba budi kabuyi buhanga bintu mu bianza bienu.
+11 Balume nkama isambombo ba mu tshisamba tshia Dana, bakadi ne bintu bia nvita bisuika hamʼbidi habo, bakumuka ku Solea ne Eshetaola.
+12 Bakaya, bakatula tshitudilu tshiabo mu Kîyata-yalima mu Yuda; nunku badi babikila muaba au ne, Mahane-dana tô ne lelu; monai, udi ku nyima kua Kîyata-yalima.
+13 Bakumukaku, bakayila ku mikuna ya Efelayima, bakalua ku nsubu wa Mika.
+14 Hashishe balume aba bakaya bua kutentekelabo buloba bua Layisha, bakakonka bana babo ne, Nudi bamanye ne efoda ne telafima ne luhingu luakasongabo ne luhingu luakatulabo bidi mu nsubu ei, anyi? Nunku nuelangane meji a bualu bunudi nʼabu mbua kuenza.
+15 Bakasesuka, bakaya ku nsubu wa nsongalume, Muena Lewi, ku nsubu wa Mika mene, bakamukonka ne, Udi bimpe, anyi?
+16 Bantu aba nkama isambombo ba mu tshisamba tshia Dana bakadi ne bintu biabo bia nvita bisuika hamʼbidi, bakimana ku tshibi tshia musoko.
+17 Balume aba batanu bakadi baye kua kutentekelabo buloba, bakaya, bakabuelamu, bakangata luhingu luakasongabo ne efoda ne telafima ne luhingu luakadibo; muakuidi wakadi muimane ku tshibi tshia musoko hehi ne bantu aba nkama isambombo bakadi ne bintu bia nvita bisuika hamʼbidi.
+18 Hakaya bantu aba mu nsubu wa Mika, ne hakangatabo luhingu luakasongabo ne efoda ne telafima ne luhingu luakatulabo, muakuidi wakabakonka ne, Nudi nuenza tshinyi?
+19 Bakamuambila ne, Huwa biebe, teka tshianza tshiebe ku mishiku yebe, uye nʼetu, wikale kutudi bu tatu ne muakuidi; bidi bimpe bua wewe kuikala muakuidi wa mu nsubu wa muntu umue, anyi muakuidi wa tshisamba tshijima tshia mu Isalele?
+20 Mutshima wa muakuidi wakasanka, yeye wakangata efoda ne telafima ne luhingu luakasongabo, wakaya munkatshi mua bantu.
+21 Bakumukaku, bakaya, bakateka bana ne bimuna ne bintu biabo ku mpala kuabo.
+22 Hakadibo kaba kale ne nsubu wa Mika, bantu bakadi bashikama mu nsubu ya ha buihi ne nsubu wa Mika bakadisangisha hamue, bakihatshila Bena Dana.
+23 Bobo bakadila kudi Bena Dana. Bobo bakatshunguluka kudi Mika, bakamukonka ne, Bualu kai buakukutonda bua wewe wakatulonda ne tshisumbu tshinene nunku?
+24 Yeye wakamba ne, Nuakuangata nzambi yanyi inakuenza, ne muakuidi, nuakuya nʼabi, ndi ne bintu bikuabo kudi kunyi? Munyi munuakunkonka ne, Bualu kai budi bukutonda?
+25 Bena Dana bakamuambila ne, Dî diebe kadiunvuiki munkatshi muetu, anyi bantu badi ne tshiji nebakukuate, ne wewe neujimishe muoyo webe ne mioyo ya ba mu nsubu webe.
+26 Bena Dana bakaya mu nshila; ne bakamanya Mika ne, Badi bampite bukole, yeye wakalukila, wakahingana ku nsubu kuandi.
+27 Bobo bakangata bintu bia Mika biakenzeye ne muakuidi wakadiye nʼandi, bakalua ku Layisha, kudi bantu bakadi talalâ ne kabayi ne bualu, bakabashiha ne miele ya nvita, bakosha musoko ne kahia.
+28 Kabakadi ne musungula bualu bua musoko wakadi kule ne Sidona, ne bobo kabakabuelakana ne bantu bakuabo; musoko eu wakadi mu tshibanda tshia ha buihi ne Bete-lehoba. Bakasa musoko, bakasanka mamu.
+29 Bakidika musoko eu dina ne, Dana, ndina dia Dana nkambua wabo, wakaledibua kudi Isalele; kadi dina dia musoko diakadi Layisha diambedi.
+30 Bena Dana hakadimanyisha luhingu lusonga Yonatana, muana wa Gêshoma, muana wa Mose, yeye ne bana bandi balume, bakadi bakuidi ba mu tshisamba tshia Bena Dana tô ne hakayabo mu buluka.
+31 Bakadimanyikila luhingu lua Mika luakenzeye tô ne matuku onso a hakadi nsubu wa Nzambi mu Shilo.
+
+Judges 19
+1 Mu matuku au hakadibo kabayi ne mukelenge mu Isalele, Muena Lewi mukuabo wakadi mushikame ku nyima kua mikuna ya Efelayima, wakadiangatshila mukashi muhika wa mu Beteleheme-yuda.
+2 Mukashi au wakumuka kudiye, wakahingana ku nsubu wa tatu wandi ku Beteleheme-yuda, wakalalaku ngondo mai mijima.
+3 Bayandi wakabika, wakamulonda bua kumuambileye mei a kalolo ne bua kumuhingisha kabidi; muikale ne muena mudimu wandi ne mpunda ibidi; mukashi wakalua nʼandi mu nsubu wa tatu wandi. Hakamutangila tatu wa mukashi, yeye wakadi ne disanka bua kusangakena nʼandi.
+4 Tatuʼandi-muenu, tatu wa mukashi mene, wakamuhumbisha ne yeye wakalalaku matuku asatu; bakadia, bakanua, bakalalaku.
+5 Hakalua dituku dinai, hakabikabo ne dinda dionso, yeye wakabika bua kuyeye; hashishe tatu wa mukashi wakambila muku wandi ne, Kolesha mutshima webe ne bidia bikese, ne ku nyima udi mua kuya mu nshila webe.
+6 Nunku bakashikama, bakadia, bakanua, bubidi buabo hohamue; ne tatu wa mukashi wakambila mulume eu ne, Anji kuitabusha bua kulala butuku buonso, ndi nkusengelela ne, Mutshima webe usanke.
+7 Mulume wakabika bua kuyeye, kadi tatuʼandi-muenu wakamusengelela, nunku yeye wakalalaku kabidi.
+8 Dituku ditanu yeye wakabika ne dinda dionso bua kuyeye, ne tatu wa mukashi wakamuambila ne, Kolesha mutshima webe, ndi nkusengelela, anji kushala tô ne hamba diba kubuela; nunku bubidi buabo bakadia.
+9 Bakabika mulume bua kuyeye ne mukashi wandi ne muena mudimu wandi, tatuʼandi-muenu, tatu wa mukashi, wakamuambila ne, Monai, diba diakuamba kubuela, ndi nnusengelela ne, Lalai bienu butuku buonso; butuku buakuamba kuila, lalai bienu kunoko, bua mitshima yenu isanke; makelela nenubike ne dinda dionso, bua nuye bienu kuenu.
+10 Kadi mulume kakitabusha bua kulala butuku abu; wakabika, wakaya, wakafika ku Yebuse (udi Yelushalema mene) ne mukashi wandi ne mpunda ibidi yakadi ne biseba ha nyima hai.
+11 Hakafikabo ne mukashi muhika wandi wakadi nʼandi ha buihi ne Yebuse, butuku buakamba kuila, ne muena mudimu wakambila mukelenge wandi ne, Lua biebe, ndi nkusengelela, tuye ku musoko eu wa Bena Yebuse, tulalemu.
+12 Kadi mukelenge wandi wakamuambila ne, Nansha, katuena tuahuka ku musoko wa bende udi kauyi wa Bena Isalele; netuye ku Gibea.
+13 Wakambila muena mudimu wandi kabidi ne, Lua, tusemene ha buihi ne umue wa miaba ei; netulale nansha mu Gibea nansha mu Lama.
+14 Nunku bakahita, bakaya mu nshila wabo, ne diba diakababuelela hakadibo ha buihi ne Gibea wa mu Benyamina.
+15 Bakâhuka bua kuya kulala mu Gibea. Wakabuela, wakashikama anu mu musesu wa mu musoko, bualu bua kakuakadi muntu wakaya nʼabo mu nsubu wandi bua kudiabo.
+16 Monai, muntu mununu wakalua mufume ku mudimu wandi wa budimi dilolo; muntu eu wakufuma ku mikuna ya Efelayima, wakadi mushikame mu Gibea; kadi bena musoko bakadi Bena Benyamina.
+17 Muntu au wakabanduluka, wakamona muenyi muikale anu mu musesu wa mu musoko; hashishe muntu mununu wakamukonka ne, Uyaya kudi kunyi? Wakufuma kudi kunyi?
+18 Yeye wakamukudimuna ne, Tuakufuma ku Beteleheme-yuda; tuyaya ku nyima kua mikuna ya Efelayima, nkunakafuma. Nakadi muye ku Beteleheme-yuda; katataka ntshidi nya ku nsubu wa Yehowa, ne kakuena muntu udi umbuesha mu nsubu wandi.
+19 Kadi tudi ne bintu bia kudisha nʼabi mpunda yetu, ne tudi ne bidia ne nvinyo kabidi bualu buanyi ne bua muhika webe mukashi, ne bua nsongalume udi ne bantu bebe; kakuena dikengela dia tshintu.
+20 Muntu au mununu wakamba ne, Ditalala dikale kûdi, kadi bionso biudi ukenga bikale bualu buanyi; kadi kanuladi mu musesu.
+21 Nunku yeye wakaya nʼandi mu nsubu muandi, wakadisha mpunda; bakowa makasa abo, bakadia, bakanua.
+22 Hakadibo basankisha mitshima yabo, monai, bena musoko, bantu balembakane, bakanyunguluka nsubu, bakume ku tshibi; bakambila mukelenge wa nsubu muntu mununu ne, Lua ne muntu au wakalua mu nsubu muebe bua tuetu tumumanye.
+23 Muntu au, mukelenge wa nsubu, wakabambila ne, Nansha, bana betu, ndi nnusengelela ne, Kanuenji bualu bubi; nunku muntu eu wakalua mu nsubu muanyi, kanuenji bualu buhote.
+24 Monai, muanʼanyi mukashi utshidi kamama ne mukashi wandi muhika badiku, nenduhuke nʼabo, nubafuishe bundu, ne nuenze nʼabo budi buimpe ku mesu kuenu; kadi kanuenzedi muntu eu bualu bubi.
+25 Kadi balume aba kabakamunvuila; nunku mulume eu wakakuata mukashi wandi muhika, wakamufila kudibo, bakamanyangana nʼandi, bakamuenzela bibi tô ne ku dinda; bakamba butuku kutshia, bakamulekela.
+26 Hashishe mukashi wakahingana hatshiatshia, wakadishinda hanshi ku mbelu kua nsubu wa muntu kuakadi mukelenge wandi, to ne hakabanda diba.
+27 Mukelenge wandi wakabika ne dinda dionso, wakunzulula bibi bia nsubu, wakamba kuya mu nshila wandi; ne monai, mukashi wandi muhika wakadi muhone hanshi ku tshibi tshia nsubu, ne bianza biandi mu mbelu.
+28 Yeye wakamuambila ne, Bika, tuye; kadi kakamuitaba. Hashishe yeye wakamuteka ha nyima ha mpunda, ne muntu eu wakaya ku muaba wandi.
+29 Hakabueleye mu nsubu muandi, yeye wakangata kele, wakakuata mukashi wandi muhika, wakamukosolola bituha dikumi ne bibidi, wakabituma ku nseke yonso ya Isalele.
+30 Bantu bonso bakamona bualu ebu, bakambilangana ne, Bualu ebu kabuakanza kuenjibua mu Isalele ku dituku diakumukabo mu buloba bua Ejipitu tô ne lelu; nubumanye, nuelangane meji, ambai.
+
+Judges 20
+1 Hashishe Bena Isalele bonso bakaluhuka bafume ku Dana tô ne ku Bê-sheba ne ba mu buloba bua Gilada, bakadisangisha bu muntu umue kudi Yehowa ku Misepa.
+2 Bakelenge ba bantu ba mu bisamba bionso bia Bena Isalele bakamueneka ku disangisha dia bantu ba Nzambi, bena nvita ba miele bakadi benda ku makasa binunu nkama inai.
+3 Hashishe Bena Benyamina bakunvua lumu ne, Bena Isalele bakadisangisha ku Misepa. Bena Isalele bakamba ne, Nutuambile ne, Bualu ebu bubi buakalua munyi?
+4 Muena Lewi, bayandi wa mukashi wakashihabo, wakabakudimuna ne, Nakalua ku Gibea wa mu buloba bua Benyamina, meme ne mukashi muhika unakabaka, bua kulalaku.
+5 Bena Gibea bakadisangisha kundi, bakanyunguluka nsubu unakadi butuku; bakasua kushiha meme, bakakuata mukashi wanyi muhika ku bukole, ne yeye wakafua.
+6 Nunku nakangata mukashi wanyi muhika, nakamukosolola bituha, nakabituma ku maloba onso a mahianyi a Bena Isalele; bualu bua bobo bakadi benza bualu bua bundu ne bua buhote mu Isalele.
+7 Monai, nuenu Bena Isalele, buonso buenu, leshai meji enu, lumbululai.
+8 Bantu bonso bakabika bu muntu umue bamba ne, Katuena tuya, muntu mu ntenta muntu mu ntenta yetu, ne katuena tuahuka, muntu ku nsubu wandi muntu ku nsubu wandi.
+9 Kadi ebu mbualu butuenzela Bena Gibea; netubelele nshobo bua kuluangana nʼabo;
+10 neusungule bantu dikumi ku lukama lua bantu ba mu bisamba bionso bia Bena Isalele, ne lukama ku tshinunu tshia bantu, ne tshinunu tshimue ku binunu dikumi bia bantu, bua kutuadilabo bantu bia kudia; ne hafikabo ku Gibea wa Benyamina, bobo nebabenzele bu mudi bualu buhote buonso buakenzabo mu Isalele.
+11 Nunku Bena Isalele bonso bakadisangisha ku musoko ne mitshima yabo miakanangane bu muntu umue.
+12 Bisamba bionso bia Bena Isalele biakatuma bantu munkatshi mua tshisamba tshionso tshia Bena Benyamina, bamba ne, Bualu ebu bubi buakuenjibua munkatshi muenu budi tshinyi?
+13 Nunku nufile balume, bantu balembakane, ba mu Gibea kutudi, bua tuetu tubashihe, neamushe bubi ebu mu Isalele. Kadi Bena Benyamina kabakunvua dî dia bana babo, Bena Isalele.
+14 Bena Benyamina bonso bakadisangisha bafume ku misoko yabo yonso, bakaya ku Gibea bua kuluanganabo ne Bena Isalele.
+15 Bakabala Bena Benyamina ku dituku adi ba ku misoko yabo bu bantu binunu makumi abidi ne bisambombo bakadi ne miele ya nvita, ku mutu kua Bena Gibea nkama muanda mutekete bakasungulabo.
+16 Munkatshi mua bantu aba bonso muakadi bantu nkama muanda mutekete hasungula bakadi ne luboko; muntu yonso wakadi mumanye mua kuela mabue mu disoka, kâyi eku ne eku bu ntanta wa bunene bua lusuki, kayi uhanga.
+17 Bakabala bena nvita bakadi ne miele mu Isalele ku mutu kua Bena Benyamina bantu binunu nkama inai; bonso aba bakadi bena nvita.
+18 Bena Isalele bakabika, bakaya ku Betele, bakebesha Nzambi bualu bua kuenzabo; bakamba ne, Ba kutudi badianjile kuluisha Bena Benyamina mbanganyi? Yehowa wakamba ne, Bena Yuda nebadianjile kuya.
+19 Bena Isalele bakabika ne dinda, bakatula tshitudilu tshiabo hehi ne Gibea;
+20 Bena Isalele bakaluhuka bua kuluangana ne Bena Benyamina; Bena Isalele bakela mualu wa nvita kudibo ku Gibea.
+21 Bena Benyamina bakaluhuka ku Gibea, bakashiha Bena Isalele, bahele hanshi dituku adi, bantu binunu makumi abidi ne bibidi.
+22 Bena Isalele bakakolesha mitshima yabo, bakela mualu wa nvita ku muaba wakelabo mualu wa nvita diambedi.
+23 Bena Isalele bakaya, bakadila ku mpala kua Yehowa tô ne dilolo; bakebesha Yehowa ne, Netuhingane bua kuluangana ne bana betu Bena Benyamina kabidi, anyi? Yehowa wakabambila ne, Nubaluishe.
+24 Bena Isalele bakasemena ha buihi ne Bena Benyamina dituku dibidi.
+25 Bena Benyamina bakaluhuka kudibo ku Gibea dituku dibidi, bakashiha Bena Isalele, bahele hanshi, bantu binunu dikumi ne muanda mukulu; aba bonso bakadi ne miele.
+26 Hashishe Bena Isalele bonso ne bantu bonso bakaya ku Betele, bakadila, bakashikamaku ku mpala kua Yehowa, bakajila bia kudia dituku adi tô ne dilolo; bakasaku milambu ya kuosha ha kahia ne milambu ya kubavuisha nʼai ditalala kudi Yehowa.
+27 Bena Isalele bakakonka Yehowa (bualu bua mushete wa tshihungidi tshia mei a Yehowa wakadiku mu matuku au,
+28 ne Pinehasa, muana wa Eleazâ, muana wa Alona, wakadi muimane ku mpala kua mushete mu matuku au), bamba ne, Netuye bua kuluangana ne bana betu Bena Benyamina kabidi, anyi nealekele? Yehowa wakabambila ne, Yai bienu, bualu bua nembafile mu bianza bienu makelela.
+29 Bena Isalele bakateka balaminyi banyunguluke Gibea.
+30 Bena Isalele bakaya kudi Bena Benyamina dituku disatu, bakela mualu wa nvita ku Gibea bu muakenzabo misangu mikuabo.
+31 Bena Benyamina bakaluhuka bua kuluangana ne bantu, bakumuka ku musoko basemena kule; bakabanga kubashiha bu muakenzabo misangu mikuabo mu nshila minene, nshila umue udi ufuma ku Betele ne nshila mukuabo udi ufuma ku Gibea, ne mu tshisuku kabidi; bakashiha Bena Isalele bu makumi asatu.
+32 Bena Benyamina bakambilangana ne, Tudi tubashiha bu mutuakenza diambedi. Kadi Bena Isalele bakambilangana ne, Tunyeme bietu, tubasemeshe kule ne musoko, baluile mu nshila minene.
+33 Bena Isalele bonso bakabika ku miaba yabo, bakela mualu wa nvita ku Bâla-tamâ; balaminyi ba Bena Isalele bakabika ku miaba yabo ya ku Mâle-geba.
+34 Binunu dikumi bia bantu hasungula munkatshi mua Bena Isalele bonso bakalua ku Gibea, bakaluangana nvita mikole; Bena Benyamina kabakadi bamanye ne, Bualu bubi bukadi ha kutukuata.
+35 Yehowa wakashiha Bena Benyamina ku mpala kua Bena Isalele; Bena Isalele bakashiha Bena Benyamina dituku adi bantu binunu makumi abidi ne bitanu ne lukama lumue; buonso buabo bakadi bena nvita bakadi ne miele.
+36 Bena Benyamina bakamanya ne, Bakatuhita bukole; ne Bena Isalele bakashila Bena Benyamina muaba, bualu bua bobo bakadi beyemena balaminyi bakatekabo ku Gibea.
+37 Balaminyi bakabika, bakaya ku Gibea lubilu; balaminyi bakela mualu wa nvita, bakashiha bena musoko bonso ku miele ya nvita.
+38 Tshimanyinu tshia Bena Isalele ne balaminyi tshiakahungabo tshiakadi muishi wa kahia munene ujuka mu musoko.
+39 Bena Isalele bakatshunguluka mu nvita, ne Bena Benyamina bakabanga kubashiha, bantu bu makumi asatu, bamba ne, Bulelela, tudi tubashiha bu mutuakenza diambedi.
+40 Kadi hakabanga muishi wa kahia kujuka mu musoko, Bena Benyamina bakatangila ku nyima kuabo; ne monai, musoko mujima wakahia, ne muishi wakadi ubanda mu diulu.
+41 Bena Isalele bakatshunguluka, ne Bena Benyamina bakatua mikemu, bakamanya ne, Bualu bubi buakutukuata.
+42 Nunku bakela Bena Isalele nyima, bakamba kuya mu tshihela; kadi nvita mikole yakabalonda; bakashiha kabidi bantu bakadi baluhuka mu misoko mu muaba eu mene.
+43 Bakela Bena Benyamina munkatshi, bakabihata, bakabadiata ku miaba yakambabo kuikisha tô ne ku Gibea kudi kuhatukila diba.
+44 Bakashiha Bena Benyamina binunu dikumi ne muanda mukulu; bonso aba bakadi bena bukitu.
+45 Bakâhuka, bakanyema ku tshihela ku dibue dia Limona; balongolola bantu binunu bitanu mu nshila minene; bakananukila kubihata tô ne ku Gidoma; bakashiha bantu binunu bibidi.
+46 Nunku bonso ba mu Benyamina bakafua dituku adi bakadi binunu makumi abidi ne bitanu; buonso buabo bakadi ne miele, bakadi bena bukitu.
+47 Bantu nkama isambombo bakâhuka, bakanyema ku tshihela ku dibue dia Limona, bakalalaku ngondo inai.
+48 Bena Isalele bakatshunguluka kudi Bena Benyamina kabidi, bakabashiha ne miele ya nvita, ne bena musoko bonso ne bimuna biabo ne bionso biakasanganabo; ne misoko yonso yakasanganabo, bakayosha.
+
+Judges 21
+1 Balume bonso ba mu Isalele hakamana kuditshiha ku Misepa ne, Nansha umue wetu kafidi muanʼandi mukashi kudi Muena Benyamina bu mukashi wandi.
+2 Bantu bakadisangisha ku Betele, bakashikamaku ku mpala kua Nzambi tô ne dilolo, bakabisha dî diabo, bakadila bikole.
+3 Bakamba ne, Yehowa, Nzambi wa Bena Isalele, bualu ebu buakulua munyi, bua tshisamba tshimue katshiyi munkatshi mua Bena Isalele lelu?
+4 Hakatshiabu, bantu bakabika ne dinda dionso, bakasaku tshioshelu, bakafua milambu ya kuosha ne milambu ya kubavuisha ditalala.
+5 Bena Isalele bakamba ne, Nganyi wa munkatshi mua bisamba bia Bena Isalele wahidia kulua ku disangisha dia Yehowa? Bualu bua bobo bakadi baditshiha ne kuditshiha kukole ne, Wahidia kulua kudi Yehowa ku Misepa neafue bulelela.
+6 Bena Isalele bakakudimuna mitshima yabo bualu bua Bena Benyamina, bana babo, bamba ne, Tshisamba tshimue tshidi tshiumushibua munkatshi mua Bena Isalele lelu.
+7 Munyi mutuangatshila badi bashala bujike bakashi, bualu bua tuetu tuakamana kuditshiha ne, Katuena tuhia bana betu bakashi kudibo bu bakashi babo?
+8 Bakakemangana ne, Tshisamba kai tshia Bena Isalele tshidi katshiyi tshitua kudi Yehowa ku Misepa? Ne monai, nansha muetu umue wa mu tshitudilu tshia Yabesha-gilada wakalua ku disangisha.
+9 Bualu bua hakabalabo bantu, monai, kakuakadi umue wa munkatshi mua Bena Yabesha-gilada.
+10 Bantu bakadi mu disangisha bakatumaku balume ba bukitu binunu dikumi ne bibidi, bakabambila ne, Yai bienu, nushihe Bena Yabesha-gilada ne miele ya nvita, ne bakashi ne bana bakese.
+11 Ebu mbualu bunudi ne bua kuenza: nushihe mulume yonso ne mukashi yonso wakamana kulala ne mulume.
+12 Bakasangana munkatshi mua Bena Yabesha-gilada bakashi nkama inai bakatshidi tumama, kabakadi bamanyibue kudi mulume; bakalua nʼabo ku tshitudilu tshia mu Shilo, tshidi mu buloba bua Kanâna.
+13 Bena disangisha bonso bakatumina Bena Benyamina bakadi ku dibue dia Limona dî dia kubadisha nʼadi ditalala.
+14 Bena Benyamina bakahingana ku tshikondo atshi; bakabaha bakashi bakakuatabo ne muoyo ku Yabesha-gilada; kadi kabakabakumbana.
+15 Bantu bakakudimuna mitshima yabo bualu bua Bena Benyamina bualu bua Yehowa wakabayuisha batahuluki kudi bisamba bia Bena Isalele.
+16 Hashishe, bakulu ba mu disangisha diabo bakamba ne, Munyi mutuangatshila badi bashala bakashi, bualu bua bakashi ba mu Benyamina bakabutudibua?
+17 Bakamba ne, Butudi nʼabu mbua kuha Bena Benyamina badi bashala buhianyi, bua tshisamba tshimue katshijiminyi munkatshi mua Bena Isalele.
+18 Kadi katuena mua kubaha bana betu bakashi; bualu bua Bena Isalele hakamana kuditshiha ne, Muntu udi ufila muanʼandi mukashi kudi Muena Benyamina udi ne mulau.
+19 Bakamba ne, Monai, batu badia bia kudia bia disanka dia Yehowa ku tshidimu ku tshidimu ku Shilo udi ku node kua Betele ne ku esete kua nshila udi mubande ku Betele muye ku Shekeme, ne udi ku sude kua Lebona.
+20 Bakambila Bena Benyamina ne, Yai bienu, nualamine mu madimi a tumuma tukese;
+21 numone ne halua bana bakashi ba mu Shilo bua kujabo maja, nuluhuke mu madimi a tumuma tukese, ne muntu ne muntu adiangatshile mukashi wandi munkatshi mua bana bakashi ba mu Shilo, aye biandi mu buloba bua Benyamina.
+22 Hashishe, bialua batatuʼabo anyi bana babo kutudi bua kutandangana nʼetu, netubambile ne, Nubafile kutudi bu matabisha bualu bua tuetu katuakubangatshila, muntu ne muntu, mukashi mu nvita, ne nuenu kanuakabahabo; bu nuenu babahebo, nuenu nuakadi kuhila.
+23 Bena Benyamina bakenza nunku, bakadiangatshila bakashi bakabakumbana bungi buabo ba munkatshi mua bakadi baja maja, bakakuatabo; bakaya nʼabo, bakahingana ku buhianyi buabo, bakasa misoko, bakashikamamu.
+24 Bena Isalele bakumukaku mu tshikondo atshi, bakaya muntu ne muntu ku tshisamba tshiandi ne ku tshiota tshiandi; bakumukaku, muntu ne muntu wakaya ku buhianyi buandi.
+25 Mu matuku au kamuakadi mukelenge mu Isalele; muntu ne muntu wakenza anu malu akadi mimpe ku mesu kuandi.
